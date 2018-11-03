@@ -2,14 +2,15 @@
 title: FAQ du programme pour les développeurs Office 365
 description: Forum aux questions sur le programme pour les développeurs Office 365.
 ms.date: 04/16/2018
-ms.openlocfilehash: 53e0f076aeb5d9a08ed1801d71b5dcd656c6fe14
-ms.sourcegitcommit: b7da765007f295d17f23b7d4a638af760ecd3b96
+ms.openlocfilehash: 7d02bed6ba67c2a0eac0db6674848d9e6f39630b
+ms.sourcegitcommit: 3651125e6eebc1d630436a260051eca929f3306b
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 10/17/2018
-ms.locfileid: "25670371"
+ms.lasthandoff: 10/27/2018
+ms.locfileid: "25829251"
 ---
 # <a name="office-365-developer-program-faq"></a>FAQ du programme pour les développeurs Office 365
+
 
 Voici les questions fréquemment posées concernant le programme pour les développeurs Office 365.
 
@@ -65,7 +66,7 @@ Votre abonnement est valable un an. Vous pouvez trouver la date d’expiration,
 
 ### <a name="when-my-subscription-is-about-to-expire-can-i-extend-it"></a>Lorsque mon abonnement est sur le point d’expirer, puis-je le prolonger ?
 
-Pour le moment, nous ne pouvons pas étendre la durée des abonnements existants. Toutefois, vous pouvez prolonger votre abonnement en achetant une option spéciale pour 99,00 $/an. Lorsque votre abonnement est sur le point d’expirer, vous recevez un rappel relatif à son renouvellement contenant des instructions sur la façon de prolonger votre abonnement.
+Pour le moment, nous ne pouvons pas prolonger les abonnements existants. Toutefois, vous pouvez prolonger votre abonnement en achetant une option spéciale pour 99,00 $ par utilisateur et par an. Lorsque votre abonnement est sur le point d’expirer, vous recevez un rappel relatif à son renouvellement contenant des instructions sur la façon de prolonger votre abonnement.
 
 <a name="account-types"> </a>
 
