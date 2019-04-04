@@ -1,18 +1,18 @@
 ---
 title: Configuration d’un abonnement Office 365 Développeur
-description: Configurez un abonnement Office 365 Développeur pour créer et tester des solutions indépendamment de votre environnement de production.
-ms.date: 03/20/2018
+description: Configurez un abonnement Office 365 Développeur pour créer des solutions indépendamment de votre environnement de production.
+ms.date: 04/01/2019
 localization_priority: Priority
-ms.openlocfilehash: 76d8523d6c86d2d5dc6b277999b4025d7027dbf0
-ms.sourcegitcommit: 5929843b58730078fa4a92a8cc3ab44291462585
+ms.openlocfilehash: 32b32847b50c16c8b8f16b360318af1f18d8d69b
+ms.sourcegitcommit: 5d2444c7732b0312a8939cfa3671c3e7835aee3e
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 01/15/2019
-ms.locfileid: "28015127"
+ms.lasthandoff: 04/02/2019
+ms.locfileid: "31042004"
 ---
 # <a name="set-up-an-office-365-developer-subscription"></a>Configuration d’un abonnement Office 365 Développeur 
 
-Configurez un abonnement Office 365 Développeur pour créer et tester vos solutions indépendamment de votre environnement de production. L’abonnement est un abonnement Office 365 Enterprise E3 Développeur avec 25 licences utilisateur. Il est valable un an et gratuit pour une utilisation à des fins de développement (codage et test de solutions).
+Configurez un abonnement Office 365 Développeur pour créer vos solutions indépendamment de votre environnement de production. L’abonnement est un abonnement Office 365 Enterprise E3 Développeur avec 25 licences utilisateur. Il est valable 90 jours et gratuit pour une utilisation à des fins de développement (solutions d’encodage).
 
 > [!NOTE] 
 > Pour configurer un abonnement, vous devez d’abord [rejoindre le programme pour les développeurs Office 365](office-365-developer-program.md). Après avoir rejoint le programme, l’option pour configurer un abonnement s’affiche.
@@ -40,7 +40,7 @@ Configurez un abonnement Office 365 Développeur pour créer et tester vos solu
 
 ## <a name="configure-the-subscription"></a>Configuration de l’abonnement
 
-1. Sur votre page de profil, choisissez le lien [office.com](https://www.office.com/) et connectez-vous avec votre identifiant utilisateur (par exemple, nomutilisateur@domaine.onmicrosoft.com) et le mot de passe indiqués pour votre abonnement Développeur.
+1. Sur votre page de profil, choisissez le lien [office.com](https://www.office.com/) et connectez-vous avec votre identifiant utilisateur (par exemple, username@domain.onmicrosoft.com) et le mot de passe indiqués pour votre abonnement Développeur.
 
    > [!NOTE] 
    > Ne vous connectez pas à votre abonnement avec vos informations d’identification du programme pour les développeurs.
@@ -53,10 +53,10 @@ Configurez un abonnement Office 365 Développeur pour créer et tester vos solu
 
   ![Page de personnalisation de connexion et d’e-mail](images/8a-set-up-personalize.png)
 
-5. **Ajoutez de nouveaux utilisateurs**. Vous pouvez ajouter des utilisateurs. Il peut s’agir d’utilisateurs fictifs dont vous avez besoin pour des tests ou de réels utilisateurs pour vous aider au développement. Lorsque vous êtes prêt, sélectionnez **Suivant**.
+5. **Ajoutez de nouveaux utilisateurs**. Vous pouvez ajouter des utilisateurs. Il peut s’agir d’utilisateurs fictifs ou de réels utilisateurs pour vous aider au développement. Lorsque vous êtes prêt, sélectionnez **Suivant**.
     
   > [!NOTE]
-  > Si vous voulez ajouter des utilisateurs en bloc, vous pouvez le faire plus tard. Pour plus d’informations, reportez-vous à l’article [Ajouter des utilisateurs individuellement ou en bloc à Office 365 - Aide de l’administrateur](https://support.office.com/fr-FR/article/add-users-individually-or-in-bulk-to-office-365-admin-help-1970f7d6-03b5-442f-b385-5880b9c256ec).
+  > Si vous voulez ajouter des utilisateurs en bloc, vous pouvez le faire plus tard. Pour plus d’informations, reportez-vous à l’article [Ajouter des utilisateurs individuellement ou en bloc à Office 365 - Aide de l’administrateur](https://support.office.com/article/add-users-individually-or-in-bulk-to-office-365-admin-help-1970f7d6-03b5-442f-b385-5880b9c256ec).
 
 6. **Attribuez des licences aux utilisateurs qui n’en ont pas**. Accordez une licence à tous les utilisateurs devant utiliser l’abonnement. Lorsque vous êtes prêt, sélectionnez **Suivant**.
 
@@ -66,8 +66,8 @@ Configurez un abonnement Office 365 Développeur pour créer et tester vos solu
 
   ![Installation d’applications Office](images/11-install-office-apps.png)
 
-   > [!NOTE] 
-   > Lors de vos prochains accès au tableau de bord, connectez-vous avec votre compte *nomutilisateur@domaine*. onmicrosoft.com avant d’accéder au tableau de bord.
+   > [!TIP] 
+   > Lors de vos prochains accès au tableau de bord, connectez-vous avec votre compte *username@domain*.onmicrosoft.com avant d’accéder au tableau de bord.
 
 9. **Vous avez terminé la configuration**. Vous avez terminé la configuration de votre abonnement. Vous pouvez éventuellement évaluer l’expérience. Lorsque vous êtes prêt, sélectionnez **Accéder au Centre d’administration**.
     
@@ -78,22 +78,22 @@ Configurez un abonnement Office 365 Développeur pour créer et tester vos solu
 
 Les services principaux, tels que SharePoint et Exchange, mettront un certain temps à configurer l’abonnement. Au cours de cette étape, certaines icônes du lanceur d’applications et de la page d’accueil affichent le message suivant : **Configuration (Configuration de l’application toujours en cours)**. Cette opération ne dure pas plus d’une heure.
 
-Une fois la configuration terminée, vous pouvez utiliser le nouvel abonnement Office 365 pour le développement et le test. L’abonnement expire au bout d’un an.
+Une fois la configuration terminée, vous pouvez utiliser le nouvel abonnement Office 365 pour le développement. L’abonnement expire au bout de 90 jours. Pour le prolonger, reportez-vous à l’article [Lorsque mon abonnement est sur le point d’expirer, puis-je le prolonger ?](office-365-developer-program-faq.md#renew-subscription).
 
-Nous vous recommandons également d’activer les options de publication pour vous assurer que vous avez accès aux dernières fonctionnalités d’Office 365 dès que possible. Pour plus d’informations, reportez-vous à l’article [Configurer les options de publications standard et ciblée dans Office 365](https://support.office.com/en-us/article/set-up-the-standard-or-targeted-release-options-in-office-365-3b3adfa4-1777-4ff0-b606-fb8732101f47?ui=en-US&rs=en-US&ad=US).
+Nous vous recommandons également d’activer les options de publication pour vous assurer que vous avez accès aux dernières fonctionnalités d’Office 365 dès que possible. Pour plus d’informations, reportez-vous à l’article [Configurer les options de publications standard et ciblée dans Office 365](https://support.office.com/article/set-up-the-standard-or-targeted-release-options-in-office-365-3b3adfa4-1777-4ff0-b606-fb8732101f47).
 
 ## <a name="set-up-a-microsoft-azure-account"></a>Configuration d’un compte Microsoft Azure
 
-Pour certaines solutions Office, vous aurez peut-être besoin d’un compte Microsoft Azure pour créer et tester des éléments à l’aide des services Azure. Pour configurer un compte Azure gratuit, reportez-vous à l’article [Créez votre compte gratuit Azure dès aujourd’hui](https://azure.microsoft.com/fr-FR/free/).
+Pour certaines solutions Office, vous aurez peut-être besoin d’un compte Microsoft Azure pour créer des éléments à l’aide des services Azure. Pour configurer un compte Azure gratuit, reportez-vous à l’article [Créez votre compte gratuit Azure dès aujourd’hui](https://azure.microsoft.com/free/).
 
-## <a name="leave-the-developer-program"></a>Quitter le programme pour les développeurs
+## <a name="leave-the-office-365-developer-program"></a>Quitter le programme pour les développeurs Office 365
 
 Si vous ne souhaitez plus participer au programme pour les développeurs Office 365, vous pouvez mettre fin à votre abonnement et quitter le programme.
 
   > [!WARNING]
   > Les étapes suivantes effaceront toutes vos informations de profil. Vous perdrez toutes les données stockées dans votre abonnement développeur qui ne sont pas sauvegardées ailleurs.
 
-1. Inscrivez-vous au programme développeur.
+1. Connectez-vous au programme pour les développeurs Office 365.
 
 2. Choisissez **Supprimer le profil**.
 
@@ -103,4 +103,5 @@ Si vous ne souhaitez plus participer au programme pour les développeurs Office�
 
 - [Rejoindre le programme pour les développeurs Office 365](office-365-developer-program.md)
 - [Utilisation de votre abonnement pour créer des solutions Office 365](build-office-365-solutions.md)
+- [Renouveler un abonnement arrivant à expiration](subscription-expiration-and-renewal.md)
 - [FAQ du programme pour les développeurs Office 365](office-365-developer-program-faq.md)
