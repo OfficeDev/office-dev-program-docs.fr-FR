@@ -3,12 +3,12 @@ title: FAQ du programme pour les développeurs Office 365
 description: Forum aux questions sur le programme pour les développeurs Office 365.
 ms.date: 04/01/2019
 localization_priority: Priority
-ms.openlocfilehash: cc87dd169705e4ac37e521ef8ca5d8529d810fe7
-ms.sourcegitcommit: 5d2444c7732b0312a8939cfa3671c3e7835aee3e
+ms.openlocfilehash: 5b18c4e3632b8e498798e7238cbd7342c270eb8d
+ms.sourcegitcommit: 410ec6b3bcd545f953df04f831fbdd4954232927
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 04/02/2019
-ms.locfileid: "31042011"
+ms.lasthandoff: 05/28/2019
+ms.locfileid: "34490974"
 ---
 # <a name="office-365-developer-program-faq"></a>FAQ du programme pour les développeurs Office 365
 
@@ -22,7 +22,7 @@ Le programme Office 365 pour développeurs est conçu pour vous aider à créer 
 - Compléments web [Excel](https://developer.microsoft.com/excel), [Outlook](https://developer.microsoft.com/outlook), [Word](https://developer.microsoft.com/word), et [PowerPoint](https://developer.microsoft.com/powerpoint)
 - [SharePoint](https://developer.microsoft.com/sharepoint)
 - [Microsoft Teams](https://developer.microsoft.com/microsoft-teams)
-- [Microsoft Graph](https://developer.microsoft.com/graph)
+- [Microsoft Graph](https://developer.microsoft.com/graph)
 
 En tant que membre du programme, vous pouvez obtenir un abonnement pour les développeurs Office 365 gratuit avec 25 licences utilisateur à utiliser pour créer vos solutions. Cet abonnement restera actif tant que vous développez et déployez activement des solutions.
 
@@ -66,19 +66,19 @@ Pour plus d’informations sur les types d’activités que nous suivons, voir [
 
 Votre abonnement développeur inclut les éléments suivants :
 
-- [Exchange Online (plan 2)](https://products.office.com/exchange/compare-microsoft-exchange-online-plans)
+- [Exchange Online (Plan 2)](https://products.office.com/exchange/compare-microsoft-exchange-online-plans)
 - [Flow pour Office 365 (Plan 2)](https://flow.microsoft.com/pricing/)
-- [Microsoft Forms (plan E5)](https://support.office.com/article/Frequently-asked-questions-about-Microsoft-Forms-495c4242-6102-40a0-add8-df05ed6af61c)
-- [Microsoft Planner](https://products.office.com/compare-all-microsoft-office-products?tab=2)
-- [Microsoft Stream pour O365 E5 SKU](https://products.office.com/business/office-365-enterprise-e5-business-software)
+- [Microsoft Forms (Plan E5)](https://support.office.com/article/Frequently-asked-questions-about-Microsoft-Forms-495c4242-6102-40a0-add8-df05ed6af61c)
+- [Planificateur Microsoft](https://products.office.com/compare-all-microsoft-office-products?tab=2)
+- [Microsoft Stream pour Office 365 E5](https://products.office.com/business/office-365-enterprise-e5-business-software)
 - [Microsoft Teams](https://products.office.com/business/office-365-enterprise-e5-business-software)
-- [Gestion des périphériques mobiles pour Office 365](https://support.office.com/article/Set-up-Mobile-Device-Management-MDM-in-Office-365-dd892318-bc44-4eb1-af00-9db5430be3cd)
-- [Office 365 ProPlus](https://products.office.com/business/office-365-proplus-business-software)
+- [Gestion des appareils mobiles pour Office 365](https://support.office.com/article/Set-up-Mobile-Device-Management-MDM-in-Office-365-dd892318-bc44-4eb1-af00-9db5430be3cd)
+- [Office 365 ProPlus](https://products.office.com/business/office-365-proplus-business-software)
 - [PowerApps pour Office 365 (Plan 2)](https://powerapps.microsoft.com/pricing/)
-- [SharePoint Online pour développeur](https://products.office.com/SharePoint/compare-sharepoint-plans)
-- [Skype Entreprise Online (plan 2)](https://products.office.com/skype-for-business/online-meeting-solutions)
+- [SharePoint Online pour les développeurs](https://products.office.com/SharePoint/compare-sharepoint-plans)
+- [Skype Entreprise Online (Plan 2)](https://products.office.com/skype-for-business/online-meeting-solutions)
 - [Sway](https://sway.com/)
-- [Tâches (plan 3)](https://todo.microsoft.com)
+- [To-Do (Plan 3)](https://todo.microsoft.com)
 
 ## <a name="does-the-subscription-also-include-a-subscription-to-azure"></a>L’abonnement inclut-il également un abonnement à Azure ?
 
@@ -142,7 +142,7 @@ Si vous rencontrez des problèmes lors de la configuration de votre abonnement, 
 ## <a name="see-also"></a>Voir aussi
 
 - [Rejoindre le programme pour les développeurs Office 365](office-365-developer-program.md)
-- [Configuration d’un abonnement Office 365 Développeur](office-365-developer-program-get-started.md)
+- [Configurez un abonnement Office 365 Développeur](office-365-developer-program-get-started.md)
 - [Utilisation de votre abonnement pour créer des solutions Office 365](build-office-365-solutions.md)
 - [Renouveler un abonnement arrivant à expiration](subscription-expiration-and-renewal.md)
 

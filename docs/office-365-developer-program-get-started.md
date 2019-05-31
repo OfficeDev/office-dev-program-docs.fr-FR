@@ -4,11 +4,11 @@ description: Configurez un abonnement Office 365 Développeur pour créer des s
 ms.date: 04/01/2019
 localization_priority: Priority
 ms.openlocfilehash: 32b32847b50c16c8b8f16b360318af1f18d8d69b
-ms.sourcegitcommit: 5d2444c7732b0312a8939cfa3671c3e7835aee3e
+ms.sourcegitcommit: 410ec6b3bcd545f953df04f831fbdd4954232927
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 04/02/2019
-ms.locfileid: "31042004"
+ms.lasthandoff: 05/28/2019
+ms.locfileid: "34490946"
 ---
 # <a name="set-up-an-office-365-developer-subscription"></a>Configuration d’un abonnement Office 365 Développeur 
 
@@ -40,7 +40,7 @@ Configurez un abonnement Office 365 Développeur pour créer vos solutions ind�
 
 ## <a name="configure-the-subscription"></a>Configuration de l’abonnement
 
-1. Sur votre page de profil, choisissez le lien [office.com](https://www.office.com/) et connectez-vous avec votre identifiant utilisateur (par exemple, username@domain.onmicrosoft.com) et le mot de passe indiqués pour votre abonnement Développeur.
+1. Sur votre page de profil, choisissez le lien [office.com](https://www.office.com/) et connectez-vous avec votre identifiant utilisateur (par exemple, nomutilisateur@domaine.onmicrosoft.com) et le mot de passe que vous avez indiqués pour votre abonnement Développeur.
 
    > [!NOTE] 
    > Ne vous connectez pas à votre abonnement avec vos informations d’identification du programme pour les développeurs.
@@ -67,7 +67,7 @@ Configurez un abonnement Office 365 Développeur pour créer vos solutions ind�
   ![Installation d’applications Office](images/11-install-office-apps.png)
 
    > [!TIP] 
-   > Lors de vos prochains accès au tableau de bord, connectez-vous avec votre compte *username@domain*.onmicrosoft.com avant d’accéder au tableau de bord.
+   > Lors de vos prochains accès au tableau de bord, connectez-vous avec votre compte *nomutilisateur@domaine*. onmicrosoft.com avant d’accéder au tableau de bord.
 
 9. **Vous avez terminé la configuration**. Vous avez terminé la configuration de votre abonnement. Vous pouvez éventuellement évaluer l’expérience. Lorsque vous êtes prêt, sélectionnez **Accéder au Centre d’administration**.
     

@@ -4,11 +4,11 @@ description: Informations sur le renouvellement d’un abonnement Développeur a
 ms.date: 04/01/2019
 localization_priority: Priority
 ms.openlocfilehash: 73a286f4a9b3cd4b85237aafcac0adf45e453e7d
-ms.sourcegitcommit: 5d2444c7732b0312a8939cfa3671c3e7835aee3e
+ms.sourcegitcommit: 410ec6b3bcd545f953df04f831fbdd4954232927
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 04/02/2019
-ms.locfileid: "31044659"
+ms.lasthandoff: 05/28/2019
+ms.locfileid: "34491048"
 ---
 # <a name="office-365-developer-program-subscription-expiration-and-renewal"></a>Expiration et renouvellement d’un abonnement au programme pour les développeurs Office 365
 
@@ -71,7 +71,7 @@ Lorsque votre abonnement est supprimé, une notification apparaît sur votre tab
 ## <a name="see-also"></a>Voir aussi
 
 - [Rejoindre le programme pour les développeurs Office 365](office-365-developer-program.md)
-- [Configuration d’un abonnement Office 365 Développeur](office-365-developer-program-get-started.md)
+- [Configurez un abonnement Office 365 Développeur](office-365-developer-program-get-started.md)
 - [Utilisation de votre abonnement pour créer des solutions Office 365](build-office-365-solutions.md)
 - [FAQ du programme pour les développeurs Office 365](office-365-developer-program-faq.md)
 
