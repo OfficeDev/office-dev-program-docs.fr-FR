@@ -2,12 +2,12 @@
 title: Utiliser des packs d’exemples de données avec votre abonnement Office 365 Développeur
 description: Découvrez comment installer des packs d’exemples de données sur votre abonnement Office 365 Développeur pour vous aider à mettre en place votre environnement bac à sable rapidement.
 localization_priority: Priority
-ms.openlocfilehash: 16e605080673678b750ebeab4501ceb980cea6cb
-ms.sourcegitcommit: 76c5e3c9b58026471378e7634d121842690fd517
+ms.openlocfilehash: 8c6c5c634080e951ca2e60d0d6236db1331d44ae
+ms.sourcegitcommit: 6b77e649d1be568a71b6ec572f9d0d2c7cea6f3e
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 07/10/2019
-ms.locfileid: "35618840"
+ms.lasthandoff: 07/25/2019
+ms.locfileid: "35902344"
 ---
 # <a name="use-sample-data-packs-with-your-office-365-developer-subscription"></a>Utiliser des packs d’exemples de données avec votre abonnement Office 365 Développeur
 
@@ -70,7 +70,7 @@ Pour installer le pack d’exemples de données Utilisateurs, procédez comme su
 
 Après avoir installé le pack d’exemples de données Utilisateurs, vous pouvez installer les courriers et les événements.
 
-1. Cochez la case **Courrier &amp;Événements sur la vignette de votre abonnement.
+1. Cochez la case **Courrier &amp;Événements** sur la vignette de votre abonnement.
 2. Sélectionnez **Installer** pour commencer l’installation.
 
 ![Capture d’écran de la boîte de dialogue Installer](images/content-packs-05.png)
@@ -86,7 +86,16 @@ Oui. Nous ajouterons des packs d’exemples de données pour SharePoint et OneDr
 
 ## <a name="can-i-install-sample-data-packs-on-my-other-office-365-subscriptions"></a>Puis-je installer des packs d’exemples de données sur mes autres abonnements Office 365 ?
 
-Non. Ces packs d’exemples de données sont uniquement compatibles avec l’abonnement Office 365 Développeur inclus dans le cadre du programme Office 365 Développeur.
+Non. Ces packs d’exemples de données sont uniquement compatibles avec l’abonnement Office 365 Développeur inclus dans le cadre du programme Office 365 Développeur.
+
+## <a name="how-can-i-see-the-sample-data-in-my-subscription"></a>Comment puis-je voir les exemples de données dans mon abonnement ?
+
+Pour afficher les noms des utilisateurs ajoutés après avoir installé le pack d’exemples de données Utilisateurs, accédez au **Centre d’administration Microsoft 365** sur votre abonnement Office 365 Développeur. Sous **Utilisateurs**, sélectionnez **Utilisateurs actifs**. La liste qui apparaît contient les noms de 16 utilisateurs. Vous pouvez sélectionner un utilisateur pour afficher les métadonnées associées, notamment les photos et les licences.
+
+![Capture d’écran représentant la liste de 16 utilisateurs dans le Centre d’administration Microsoft 365 ainsi que les métadonnées d’un utilisateur sélectionné](images/content-packs-07.PNG)
+
+Pour afficher les exemples de données après avoir installé le pack d’exemples Courrier et utilisateurs, accédez au **Centre d’administration Microsoft 365**, choisissez **Afficher tout**, puis sélectionnez **Exchange**. Dans le Centre d’administration Exchange, lorsque vous sélectionnez **destinataires**, vous pouvez constater que des messages et des événements ont été ajoutés aux boîtes aux lettres de chacun des 16 utilisateurs.
+![Capture des 16 utilisateurs ajoutés au Centre d’administration Exchange](images/content-packs-08.PNG)
 
 ## <a name="see-also"></a>Voir aussi
 
