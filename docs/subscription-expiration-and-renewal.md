@@ -3,12 +3,12 @@ title: Expiration et renouvellement d’un abonnement au programme pour les dév
 description: Informations sur le renouvellement d’un abonnement Développeur arrivant à expiration.
 ms.date: 04/01/2019
 localization_priority: Priority
-ms.openlocfilehash: 73a286f4a9b3cd4b85237aafcac0adf45e453e7d
-ms.sourcegitcommit: 410ec6b3bcd545f953df04f831fbdd4954232927
+ms.openlocfilehash: d22afb89b1f7d1c537ab3153876d3f227b33f1e2
+ms.sourcegitcommit: dcd023e761e89104a588768d71fc966729280e24
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 05/28/2019
-ms.locfileid: "34491048"
+ms.lasthandoff: 07/29/2019
+ms.locfileid: "35922104"
 ---
 # <a name="office-365-developer-program-subscription-expiration-and-renewal"></a>Expiration et renouvellement d’un abonnement au programme pour les développeurs Office 365
 
@@ -38,7 +38,7 @@ Vous devez également migrer toutes les données importantes afin de les enregis
 
 ## <a name="renewable-subscriptions"></a>Abonnements renouvelables
 
-Si vous avez souscrit un abonnement avant août 2018, celui-ci est peut-être renouvelable. Si votre abonnement est inactif, le message d’avertissement suivant apparaîtra dans votre tableau de bord. 
+Si vous avez souscrit un abonnement après août 2018, celui-ci est peut-être renouvelable. Si votre abonnement est inactif, le message d’avertissement suivant apparaîtra dans votre tableau de bord. 
 
 <img alt="Screenshot of a text box with the title This subscription is inactive and expires soon" src="images/15-renewable-notice-yellow.png" width="500"> 
 
