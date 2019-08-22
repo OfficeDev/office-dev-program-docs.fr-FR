@@ -2,12 +2,12 @@
 title: Utiliser des packs d’exemples de données avec votre abonnement Office 365 Développeur
 description: Découvrez comment installer des packs d’exemples de données sur votre abonnement Office 365 Développeur pour vous aider à mettre en place votre environnement bac à sable rapidement.
 localization_priority: Priority
-ms.openlocfilehash: 8c6c5c634080e951ca2e60d0d6236db1331d44ae
-ms.sourcegitcommit: 6b77e649d1be568a71b6ec572f9d0d2c7cea6f3e
+ms.openlocfilehash: 29bdd3cebeaf4a2f70d1482fe1c57480cd083756
+ms.sourcegitcommit: e8d857460e4fd5842bdfbd2a9d60f4fba55edcd0
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 07/25/2019
-ms.locfileid: "35902344"
+ms.lasthandoff: 08/20/2019
+ms.locfileid: "36465101"
 ---
 # <a name="use-sample-data-packs-with-your-office-365-developer-subscription"></a>Utiliser des packs d’exemples de données avec votre abonnement Office 365 Développeur
 
@@ -15,7 +15,7 @@ Vous pouvez installer des packs d’exemples de données sur votre abonnement Of
 
 Des packs d’exemples de données sont disponibles dans [le tableau de bord de votre programme Office 365 Développeur](https://developer.microsoft.com/office/profile), au bas de la vignette de votre abonnement Office 365.
 
-![Capture d’écran de la vignette de l’abonnement sur la page du tableau de bord](images/content-packs-06.PNG)
+![Capture d’écran de la vignette de l’abonnement sur la page du tableau de bord](images/sample-data-pack-ux-tile-users-beginning.PNG)
 
 Les packs d’exemples de données suivants sont actuellement disponibles :
 
@@ -45,26 +45,29 @@ Le pack d’exemples de données Courrier et Événements ajoute des conversatio
 
 Avant d’installer le pack d’exemples de données Utilisateurs, assurez-vous que vous disposez d’un abonnement Office 365 Développeur et que vous vous attribuez une licence en d’administrateur.
 
-Pour installer le pack d’exemples de données Utilisateurs, procédez comme suit :
+> [!NOTE]
+> Assurez-vous que 16 utilisateurs sont disponibles dans votre abonnement. Votre abonnement inclut 25 utilisateurs. Si vous avez déjà configuré plus de 10 utilisateurs, supprimez d’abord certains utilisateurs afin de vous assurer que l’installation réussit.
+
+Pour installer le pack d’exemples de données Utilisateurs, procédez comme suit :
 
 1. Cochez la case **Utilisateurs** au bas de la vignette de votre abonnement.
 2. Copiez votre ID d’administrateur ; vous en aurez besoin pour vous connecter à votre abonnement.
 3. Saisissez votre ID administrateur et votre mot de passe sur la page de connexion.
 4. Accordez-vous les autorisations d’administrateur de votre abonnement Office 365 Développeur.
 
-![Capture d’écran montrant la boîte de dialogue de consentement des autorisations](images/content-packs-01.png)
+![Capture d’écran montrant la boîte de dialogue de consentement des autorisations](images/sample-data-pack-ux-tile-users-consent-with-permissions-combined.PNG)
 
 5. Configurez vos mots de passe pour tous les exemples d’utilisateurs. Vous aurez besoin d’un mot de passe partagé défini pour simplifier l’administration de tous vos utilisateurs fictifs.
 
-![Capture d’écran de la boîte de dialogue permettant d’ajouter un mot de passe d’un utilisateur partagé](images/content-packs-02.png)
+![Capture d’écran de la boîte de dialogue permettant d’ajouter un mot de passe d’un utilisateur partagé](images/sample-data-pack-ux-tile-users-fake-user-password-creation.PNG)
 
 6. Les données sont installées. L’installation devrait prendre environ 5 minutes.
 
-![Capture d’écran montrant le processus d’installation sur la vignette du tableau de bord](images/content-packs-03.PNG)
+![Capture d’écran montrant le processus d’installation sur la vignette du tableau de bord](images/sample-data-pack-ux-tile-users-installing-status.PNG)
 
 7. Une fois l’installation terminée, vous recevez une notification par courrier électronique. La case de la vignette de votre abonnement devient verte. Vous pouvez désormais installer les packs d’exemples de données Courrier et Événements.
 
-![Capture d’écran de la vignette du tableau de bord indiquant que Courrier et Événements sont prêts à être installés](images/content-packs-04.PNG)
+![Capture d’écran de la vignette du tableau de bord indiquant que Courrier et Événements sont prêts à être installés](images/sample-data-pack-ux-tile-users-installed.PNG)
 
 ## <a name="how-do-i-install-the-mail-and-events-sample-data-pack"></a>Comment installer les packs d’exemples de données Courrier et Événements ?
 
@@ -73,7 +76,7 @@ Après avoir installé le pack d’exemples de données Utilisateurs, vous pouve
 1. Cochez la case **Courrier &amp;Événements** sur la vignette de votre abonnement.
 2. Sélectionnez **Installer** pour commencer l’installation.
 
-![Capture d’écran de la boîte de dialogue Installer](images/content-packs-05.png)
+![Capture d’écran de la boîte de dialogue Installer](images/sample-data-pack-ux-tile-mail-and-events-begin-install.PNG)
 
 > [!NOTE]
 > Si vous venez de créer votre abonnement, celui-ci doit être complètement configuré avant que l’installation puisse commencer. Cette étape peut prendre jusqu’à quelques heures. Une fois l’installation démarrée, l’opération peut prendre jusqu’à 20 minutes.
