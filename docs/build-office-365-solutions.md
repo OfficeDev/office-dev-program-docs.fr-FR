@@ -24,8 +24,7 @@ Voici comment effectuer la configuration de Microsoft Teams et faire du codage�
 2. Configurez votre environnement de développement. Ce processus varie selon le type d’application ou de service que vous créez. Pour plus d’informations, reportez-vous à l’un des articles suivants :
 
   - [Prise en main de la plateforme Microsoft Teams avec Node.js](https://docs.microsoft.com/microsoftteams/platform/get-started/get-started-nodejs-app-studio)
-  - 
-  [Prise en main de la plateforme Microsoft Teams avec C#/.NET](https://docs.microsoft.com/fr-FR/microsoftteams/platform/get-started/get-started-dotnet-app-studio)
+  - [Prise en main de la plateforme Microsoft Teams avec C#/.NET](https://docs.microsoft.com/fr-FR/microsoftteams/platform/get-started/get-started-dotnet-app-studio)
 
 ## <a name="microsoft-graph"></a>Microsoft Graph
 
