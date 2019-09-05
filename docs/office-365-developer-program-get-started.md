@@ -1,18 +1,20 @@
 ---
-title: Configuration d’un abonnement Office 365 Développeur
+title: Configurer un abonnement Microsoft 365 Développeur
 description: Configurez un abonnement Office 365 Développeur pour créer des solutions indépendamment de votre environnement de production.
 ms.date: 04/01/2019
 localization_priority: Priority
-ms.openlocfilehash: 32b32847b50c16c8b8f16b360318af1f18d8d69b
-ms.sourcegitcommit: 410ec6b3bcd545f953df04f831fbdd4954232927
+ms.openlocfilehash: c66af5cd905d82d938ee6f2c2ffeb34cccaf3c45
+ms.sourcegitcommit: a5c196fe86b0bcf5e0638084c197a0b857b4acc4
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 05/28/2019
-ms.locfileid: "34490946"
+ms.lasthandoff: 09/03/2019
+ms.locfileid: "36713890"
 ---
-# <a name="set-up-an-office-365-developer-subscription"></a>Configuration d’un abonnement Office 365 Développeur 
+# <a name="set-up-a-microsoft-365-developer-subscription"></a>Configurer un abonnement Microsoft 365 Développeur 
 
-Configurez un abonnement Office 365 Développeur pour créer vos solutions indépendamment de votre environnement de production. L’abonnement est un abonnement Office 365 Enterprise E3 Développeur avec 25 licences utilisateur. Il est valable 90 jours et gratuit pour une utilisation à des fins de développement (solutions d’encodage).
+Configurez un abonnement Microsoft 365 Développeur pour créer vos solutions indépendamment de votre environnement de production. L’abonnement est un abonnement Microsoft 365 E5 Développeur avec 25 licences utilisateur. Il est valable 90 jours et est gratuit pour une utilisation à des fins de développement uniquement (solutions d’encodage). 
+
+Les clients qui ont rejoint le programme avant le 25 août 2019 disposent d’un abonnement Office 365 E3 Développeur.
 
 > [!NOTE] 
 > Pour configurer un abonnement, vous devez d’abord [rejoindre le programme pour les développeurs Office 365](office-365-developer-program.md). Après avoir rejoint le programme, l’option pour configurer un abonnement s’affiche.

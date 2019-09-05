@@ -3,12 +3,12 @@ title: FAQ du programme pour les développeurs Office 365
 description: Forum aux questions sur le programme pour les développeurs Office 365.
 ms.date: 04/01/2019
 localization_priority: Priority
-ms.openlocfilehash: 8ac783772bd08bb4bcde6b775fc8c58b79595307
-ms.sourcegitcommit: e8d195d7e27198b13360c0de7435514c950e0bad
+ms.openlocfilehash: 9747238ed915f0b122ac9bf924d0d850d0dd55ad
+ms.sourcegitcommit: a5c196fe86b0bcf5e0638084c197a0b857b4acc4
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 07/26/2019
-ms.locfileid: "35916891"
+ms.lasthandoff: 09/03/2019
+ms.locfileid: "36713899"
 ---
 # <a name="office-365-developer-program-faq"></a>FAQ du programme pour les développeurs Office 365
 
@@ -62,9 +62,10 @@ Votre activité dans le programme Office 365 pour les développeurs et votre abo
 
 Pour plus d’informations sur les types d’activités que nous suivons, voir [Conditions d’utilisation de l’abonnement Office 365 pour les développeurs](terms-and-conditions.md). 
 
-## <a name="whats-included-in-the-office-365-developer-subscription"></a>Qu’est-ce qu’inclut l’abonnement Office 365 Développeur ?
+## <a name="whats-included-in-the-developer-subscription"></a>Qu’est-ce qu’inclut l’abonnement développeur ?
+Si vous avez créé votre abonnement après le 25 août 2019, vous disposez d’un abonnement Microsoft 365 E5 Développeur avec 25 licences utilisateur. Les clients qui ont rejoint le programme avant le 25 août 2019 disposent d’un abonnement Office 365 E3 Développeur avec 25 licences utilisateur.
 
-Votre abonnement développeur inclut les éléments suivants :
+L’abonnement Office 365 E3 Développeur inclut les éléments suivants :
 
 - [Exchange Online (Plan 2)](https://products.office.com/exchange/compare-microsoft-exchange-online-plans)
 - [Flow pour Office 365](https://flow.microsoft.com/pricing/)
@@ -83,6 +84,69 @@ Votre abonnement développeur inclut les éléments suivants :
 - [Sway](https://sway.com/)
 - [To-Do (Plan 3)](https://todo.microsoft.com)
 - [Tableau blanc (Plan 2)](https://products.office.com/fr-FR/microsoft-whiteboard/digital-whiteboard-app)
+
+L’abonnement Microsoft 365 E5 Développeur inclus toutes les applications comprises dans l’abonnement Office 365 E3 Développeur, ainsi que les nouvelles fonctionnalités suivantes :  
+
+- Fonctionnalités d’analyse avancées avec Power BI  
+- Enterprise Mobility + Security (EMS) pour la protection de la conformité et des informations  
+- Office 365 – Protection avancée contre les menaces 
+- Azure Active Directory pour la création de solutions avancées de gestion d’identité et d’accès  
+
+L’abonnement Microsoft 365 E5 Développeur inclut les éléments suivants : 
+
+- Azure Active Directory Premium P1 
+- Azure Active Directory Premium P2 
+-   Azure Advanced Threat Protection 
+-   Azure Information Protection Premium P1 
+-   Azure Information Protection Premium P2 
+-   Référentiel sécurisé client 
+-   Exchange Online (plan 2) 
+-   Flow pour Office 365 
+-   Protection des informations pour Office 365 – Premium 
+-   Protection des informations pour Office 365 – Standard 
+-   Microsoft Azure Active Directory Rights 
+-   Microsoft Azure Multi-Factor Authentication 
+-   Microsoft Cloud App Security 
+-   Microsoft Forms (plan E5) 
+-   Microsoft Intune 
+-   Microsoft MyAnalytics (complet) 
+-   Microsoft Planner 
+-   Microsoft StaffHub 
+-   Microsoft Stream pour O365 E5 SKU 
+-   Microsoft Teams 
+-   Gestion des appareils mobiles pour Office 365 
+-   Office 365 Advanced eDiscovery 
+-   Gestion de la sécurité avancée Office 365 
+-   Office 365 – Protection avancée contre les menaces (plan 1) 
+-   Office 365 – Protection avancée contre les menaces (plan 2) 
+-   Office 365 Privileged Access Management 
+-   Office 365 ProPlus 
+-   Office Online 
+-   Système téléphonique 
+-   Power BI Pro 
+-   PowerApps pour Office 365 Plan 3 
+-   SharePoint Online (plan 2) 
+-   Skype Entreprise Online (plan 2) 
+-   Sway 
+-   Tâches (plan 3) 
+-   Tableau blanc (plan 3) 
+-   Yammer Entreprise 
+
+## <a name="how-do-i-know-which-subscription-i-have"></a>Quelle abonnement est-ce que j’utilise ?
+
+Vous pouvez déterminer si vous avez un abonnement Microsoft 365 E5 ou un abonnement Office 365 E3 sur la vignette de l’abonnement sur votre [tableau de bord](https://developer.microsoft.com/office/profile). La vignette affiche E3 ou E5 sous le nom de domaine de l’abonnement.
+
+![Capture d’écran d’une vignette d’abonnement avec E5 en surbrillance](images/subscription-tile-e5.png).
+
+## <a name="how-can-i-migrate-from-an-office-365-e3-subscription-to-a-microsoft-365-e5-subscription"></a>Comment effectuer une migration à partir d’un abonnement Office 365 E3 vers un abonnement Microsoft 365 E5 ?
+
+Pour l’instant, seuls les nouveaux membres du programme Office 365 Développeur reçoivent automatiquement un abonnement Microsoft 365 E5 Développeur. Les utilisateurs existants pourront effectuer une migration vers un abonnement Microsoft 365 E5 à l’avenir. Ne vous inquiétez pas, nous mettons tout en œuvre pour permettre à tous les membres du programme Office 365 Développeur de migrer vers Microsoft 365 E5. 
+
+## <a name="can-i-choose-whether-to-have-an-office-365-e3-or-a-microsoft-365-e5-subscription"></a>Ai-je le choix entre un abonnement Office 365 E3 ou Microsoft 365 E5 ?
+
+Pour l’instant, seuls les nouveaux membres du programme développeur sont invités à utiliser un abonnement Microsoft 365 E5. Les membres existants disposant d’un abonnement Office 365 E3 auront la possibilité de conserver leur abonnement actuel et de continuer à le renouveler s’ils n’ont pas besoin des nouvelles fonctionnalités offertes dans Microsoft 365 E5. Les membres du programme développeur ne peuvent avoir qu’un seul abonnement.  
+
+Lorsqu’une migration sera possible pour les membres actuels du programme développeur, nous fournirons davantage d’informations sur le processus de migration. 
 
 ## <a name="does-the-subscription-also-include-a-subscription-to-azure"></a>L’abonnement inclut-il également un abonnement à Azure ?
 
