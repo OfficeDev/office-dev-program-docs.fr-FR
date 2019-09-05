@@ -3,12 +3,12 @@ title: Configurer un abonnement Microsoft 365 Développeur
 description: Configurez un abonnement Office 365 Développeur pour créer des solutions indépendamment de votre environnement de production.
 ms.date: 04/01/2019
 localization_priority: Priority
-ms.openlocfilehash: c66af5cd905d82d938ee6f2c2ffeb34cccaf3c45
-ms.sourcegitcommit: a5c196fe86b0bcf5e0638084c197a0b857b4acc4
+ms.openlocfilehash: 224fbae373f28250cb6673353edac19ed4ce0b64
+ms.sourcegitcommit: 9f3e21074fb96c7af93bad8bccbe24707c80c90a
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 09/03/2019
-ms.locfileid: "36713890"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36717516"
 ---
 # <a name="set-up-a-microsoft-365-developer-subscription"></a>Configurer un abonnement Microsoft 365 Développeur 
 
@@ -21,9 +21,7 @@ Les clients qui ont rejoint le programme avant le 25 août 2019 disposent d’un
 
 ## <a name="set-up-your-subscription"></a>Configurer votre abonnement
 
-1. Pour obtenir un abonnement Office 365 Développeur, sur votre page de profil, sous **Besoin d’un abonnement Office 365 à des fins de développement ?**, choisissez **Configurer un abonnement**.
-
-  ![Configuration de l’abonnement](images/4-set-up-subscription.png)
+1. Pour obtenir un abonnement Office 365 Développeur, sur votre page de profil, sélectionnez **Configurer un abonnement**.
 
 2. Dans la boîte de dialogue **Configurer votre abonnement Développeur**, créez un nom d’utilisateur et un domaine. Ce compte disposera des autorisations d’administrateur général pour l’abonnement. Vous pouvez choisir n’importe quel nom d’utilisateur ou nom de domaine dans la mesure où il n’est pas déjà utilisé. N’utilisez pas d’espaces.
 
@@ -42,14 +40,14 @@ Les clients qui ont rejoint le programme avant le 25 août 2019 disposent d’un
 
 ## <a name="configure-the-subscription"></a>Configuration de l’abonnement
 
-1. Sur votre page de profil, choisissez le lien [office.com](https://www.office.com/) et connectez-vous avec votre identifiant utilisateur (par exemple, nomutilisateur@domaine.onmicrosoft.com) et le mot de passe que vous avez indiqués pour votre abonnement Développeur.
+1. Sur votre page de profil, choisissez **Accéder à l'abonnement** et connectez-vous avec votre identifiant utilisateur (par exemple, nomutilisateur@domaine.onmicrosoft.com) et le mot de passe que vous avez indiqués pour votre abonnement Développeur.
 
    > [!NOTE] 
    > Ne vous connectez pas à votre abonnement avec vos informations d’identification du programme pour les développeurs.
 
-2. Utilisez le lanceur d’applications pour accéder au [Centre d’administration](https://portal.office.com/adminportal/home#/homepage).
+2. Utilisez le lanceur d’applications pour accéder au [Centre d’administration](https://admin.microsoft.com/AdminPortal/Home#/homepage).
 
-3. Dans la page d’accueil du Centre d’administration, choisissez **Accéder à la configuration**. Vous accéderez à la page **Configuration d’Office 365 Enterprise E3 Développeur**.
+3. Dans la page d’accueil du Centre d’administration, choisissez **Accéder à la configuration**. Cela vous permet d’accéder à la page **Configuration de Microsoft 365 E5 Développeur**.
 
 4. **Personnalisez votre connexion et votre e-mail**. Vous pouvez connecter votre abonnement à un domaine ou simplement utiliser le sous-domaine existant que vous avez créé. Lorsque vous êtes prêt, sélectionnez **Suivant**.
 
