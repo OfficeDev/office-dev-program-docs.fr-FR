@@ -3,12 +3,12 @@ title: Configurer un abonnement Microsoft 365 Développeur
 description: Configurez un abonnement Office 365 Développeur pour créer des solutions indépendamment de votre environnement de production.
 ms.date: 04/01/2019
 localization_priority: Priority
-ms.openlocfilehash: 224fbae373f28250cb6673353edac19ed4ce0b64
-ms.sourcegitcommit: 9f3e21074fb96c7af93bad8bccbe24707c80c90a
+ms.openlocfilehash: eadab2c1274260c1b5697bcd3f0473d1469a78c2
+ms.sourcegitcommit: a8fbf7863c2bc26a7467270c732e9d15d3cced2d
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 09/04/2019
-ms.locfileid: "36717516"
+ms.lasthandoff: 09/26/2019
+ms.locfileid: "37275450"
 ---
 # <a name="set-up-a-microsoft-365-developer-subscription"></a>Configurer un abonnement Microsoft 365 Développeur 
 
@@ -43,15 +43,13 @@ Les clients qui ont rejoint le programme avant le 25 août 2019 disposent d’un
 1. Sur votre page de profil, choisissez **Accéder à l'abonnement** et connectez-vous avec votre identifiant utilisateur (par exemple, nomutilisateur@domaine.onmicrosoft.com) et le mot de passe que vous avez indiqués pour votre abonnement Développeur.
 
    > [!NOTE] 
-   > Ne vous connectez pas à votre abonnement avec vos informations d’identification du programme pour les développeurs.
+   > Ne vous connectez pas à votre abonnement avec votre ID de compte de programme pour les développeurs.
 
 2. Utilisez le lanceur d’applications pour accéder au [Centre d’administration](https://admin.microsoft.com/AdminPortal/Home#/homepage).
 
 3. Dans la page d’accueil du Centre d’administration, choisissez **Accéder à la configuration**. Cela vous permet d’accéder à la page **Configuration de Microsoft 365 E5 Développeur**.
 
 4. **Personnalisez votre connexion et votre e-mail**. Vous pouvez connecter votre abonnement à un domaine ou simplement utiliser le sous-domaine existant que vous avez créé. Lorsque vous êtes prêt, sélectionnez **Suivant**.
-
-  ![Page de personnalisation de connexion et d’e-mail](images/8a-set-up-personalize.png)
 
 5. **Ajoutez de nouveaux utilisateurs**. Vous pouvez ajouter des utilisateurs. Il peut s’agir d’utilisateurs fictifs ou de réels utilisateurs pour vous aider au développement. Lorsque vous êtes prêt, sélectionnez **Suivant**.
     
@@ -63,8 +61,6 @@ Les clients qui ont rejoint le programme avant le 25 août 2019 disposent d’un
 7. **Partagez les informations d’identification de connexion**. Pour tous les utilisateurs réels qui accéderont à l’abonnement, vous devez leur communiquer leurs informations d’identification de connexion. Vous pouvez choisir une méthode, par exemple, l’e-mail, le téléchargement ou l’impression. Lorsque vous êtes prêt, sélectionnez **Suivant**.
 
 8. **Installez vos applications Office**. Vous avez la possibilité d’installer des applications Office sur votre ordinateur. Lorsque vous êtes prêt, sélectionnez **Suivant**.
-
-  ![Installation d’applications Office](images/11-install-office-apps.png)
 
    > [!TIP] 
    > Lors de vos prochains accès au tableau de bord, connectez-vous avec votre compte *nomutilisateur@domaine*. onmicrosoft.com avant d’accéder au tableau de bord.
