@@ -24,13 +24,13 @@ Voici comment effectuer la configuration de Microsoft Teams et faire du codage�
 2. Configurez votre environnement de développement. Ce processus varie selon le type d’application ou de service que vous créez. Pour plus d’informations, reportez-vous à l’un des articles suivants :
 
   - [Prise en main de la plateforme Microsoft Teams avec Node.js](https://docs.microsoft.com/microsoftteams/platform/get-started/get-started-nodejs-app-studio)
-  - [Prise en main de la plateforme Microsoft Teams avec C#/.NET](https://docs.microsoft.com/fr-FR/microsoftteams/platform/get-started/get-started-dotnet-app-studio)
+  - [Prise en main de la plateforme Microsoft Teams avec C#/.NET](https://docs.microsoft.com/en-us/microsoftteams/platform/get-started/get-started-dotnet-app-studio)
 
 ## <a name="microsoft-graph"></a>Microsoft Graph
 
 Vous pouvez utiliser Microsoft Graph pour interagir avec les données de millions d’utilisateurs dans le cloud Microsoft. Utilisez Microsoft Graph pour créer des applications pour les entreprises et les consommateurs qui se connectent à de nombreuses ressources, relations et aides à la décision, à l’aide d’un point de terminaison unique : `https://graph.microsoft.com`.
 
-Pour effectuer la configuration de Microsoft Graph et faire du codage, reportez-vous à l’article [Création d’applications Microsoft Graph - Prise en main](https://developer.microsoft.com/fr-FR/graph/get-started) ou à l’article [Démarrage rapide](https://developer.microsoft.com/fr-FR/graph/quick-start) de Microsoft Graph.
+Pour effectuer la configuration de Microsoft Graph et faire du codage, reportez-vous à l’article [Création d’applications Microsoft Graph - Prise en main](https://developer.microsoft.com/en-us/graph/get-started) ou à l’article [Démarrage rapide](https://developer.microsoft.com/en-us/graph/quick-start) de Microsoft Graph.
 
 ## <a name="office-add-ins"></a>Compléments Office
 
