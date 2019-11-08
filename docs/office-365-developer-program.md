@@ -3,12 +3,12 @@ title: Rejoindre le programme pour les développeurs Office 365
 description: Rejoignez le programme pour les développeurs Office 365 pour développer des solutions Office 365 indépendamment de votre environnement de production.
 ms.date: 04/01/2019
 localization_priority: Priority
-ms.openlocfilehash: b8aeda4e17a526c8afffcbb8f055c3c937f74661
-ms.sourcegitcommit: a8fbf7863c2bc26a7467270c732e9d15d3cced2d
+ms.openlocfilehash: d4e049609b8c943d4aa4d5eca12f1b003d2ee8bb
+ms.sourcegitcommit: 039e897679aa937a27a34b13ce94deffcaca5228
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 09/26/2019
-ms.locfileid: "37275457"
+ms.lasthandoff: 11/04/2019
+ms.locfileid: "37962232"
 ---
 # <a name="welcome-to-the-office-365-developer-program"></a>Bienvenue dans le programme pour les développeurs Office 365
 
@@ -21,7 +21,7 @@ Rejoignez vos amis et vos collègues dans le programme pour les développeurs Of
 2. En haut à droite, sélectionnez **Se connecter** pour vous connecter avec votre compte Microsoft ou votre adresse e-mail compatible avec Azure Active Directory.
 
     > [!NOTE]
-    > Souvenez-vous du compte avec lequel vous vous êtes connecté. Vous vous connecterez au [tableau de bord du programme développeur](https://developer.microsoft.com/office/profile) avec ce compte. Ce compte est différent de l’ID d’administrateur que vous utiliserez pour votre abonnement Microsoft 365 Développeur.
+    > Souvenez-vous du compte avec lequel vous vous êtes connecté. Vous vous connecterez au [tableau de bord du programme développeur](https://developer.microsoft.com/office/profile) avec ce compte. Ce compte est différent de l’ID d’administrateur que vous utiliserez pour votre abonnement Microsoft 365 Développeur.
 
   <img alt="Join the Office 365 Developer Program Sign-in" src="images/0-sign-in-page.png" width="700">
 
