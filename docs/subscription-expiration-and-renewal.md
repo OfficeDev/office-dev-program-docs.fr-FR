@@ -1,26 +1,26 @@
 ---
-title: Expiration et renouvellement d’un abonnement au programme pour les développeurs Office 365
+title: Expiration et renouvellement d’un abonnement au programme pour les développeurs Microsoft 365
 description: Informations sur le renouvellement d’un abonnement Développeur arrivant à expiration.
 ms.date: 04/01/2019
 localization_priority: Priority
-ms.openlocfilehash: f0be068369de8456bea86094139292a723938e31
-ms.sourcegitcommit: 2bc24a4f9dabc39b293698342ce0bf85bd117cdf
+ms.openlocfilehash: 0aa7907a7a2dbf1e1dec4fe5bf7192d8c4b23a54
+ms.sourcegitcommit: 9c7a1aa1c562adb350fefc8068e154fa6f9a4ee3
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 09/04/2019
-ms.locfileid: "36747116"
+ms.lasthandoff: 03/11/2020
+ms.locfileid: "42600794"
 ---
-# <a name="office-365-developer-program-subscription-expiration-and-renewal"></a>Expiration et renouvellement d’un abonnement au programme pour les développeurs Office 365
+# <a name="microsoft-365-developer-program-subscription-expiration-and-renewal"></a>Expiration et renouvellement d’un abonnement au programme pour les développeurs Microsoft 365
 
-L’adhésion au programme pour les développeurs Office 365 inclut un abonnement Office 365 Développeur gratuit. Votre abonnement Développeur est renouvelable sur la base de votre activité de développement. Certains anciens abonnements ont toutefois une date d’expiration. Cet article décrit la différence entre les abonnements renouvelables et non renouvelables, et la mise à jour de votre abonnement s’il vient à expirer.
+L’adhésion au programme pour les développeurs Microsoft 365 inclut un abonnement Office 365 E3 ou Microsoft 365 E5 Développeur gratuit. Votre abonnement Développeur est renouvelable sur la base de votre activité de développement. Certains anciens abonnements ont toutefois une date d’expiration. Cet article décrit la différence entre les abonnements renouvelables et non renouvelables, et la mise à jour de votre abonnement s’il vient à expirer.
 
 ## <a name="expiring-vs-renewable-developer-subscriptions"></a>Abonnements Développeur avec une date d’expiration ou renouvelables
 
-Lors du lancement du programme pour les développeurs Office 365, nous avons proposé des abonnements Développeur sur 12 mois qui sont associés à une date d’expiration, sans possibilité de renouvellement. En août 2018, nous avons commencé à proposer des abonnements renouvelables à certains membres du programme pour les développeurs.
+Lors du lancement du programme pour les développeurs Microsoft 365, nous avons proposé des abonnements Développeur sur 12 mois qui sont associés à une date d’expiration, sans possibilité de renouvellement. En août 2018, nous avons commencé à proposer des abonnements renouvelables à certains membres du programme pour les développeurs.
 
 Depuis avril 2019, nous proposons des abonnements renouvelables sur 90 jours.
 
-Pour déterminer si votre abonnement est renouvelable ou non, consultez votre [tableau de bord du programme pour les développeurs Office 365](https://developer.microsoft.com/fr-FR/office/profile).
+Pour déterminer si votre abonnement est renouvelable ou non, consultez votre [tableau de bord du programme pour les développeurs Microsoft 365](https://aka.ms/DevProgramDashboard).
 
 ## <a name="non-renewable-subscriptions"></a>Abonnements non renouvelables
 
@@ -58,9 +58,9 @@ Nous avons introduit les abonnements renouvelables en août 2018. Si vous avez 
 
 Pour migrer vos données de votre abonnement actuel vers un nouvel abonnement, consultez les ressources suivantes :
 
-- [Comment migrer des boîtes aux lettres d’un client Office 365 à un autre](https://docs.microsoft.com/exchange/mailbox-migration/migrate-mailboxes-across-tenants)
-- [Utiliser PowerShell pour effectuer une migration intermédiaire vers Office 365](https://docs.microsoft.com/office365/enterprise/powershell/use-powershell-to-perform-a-staged-migration-to-office-365)
-- [Migration d’un abonnement Office 365 à un autre sans tiers](https://social.technet.microsoft.com/Forums/en-US/ee507441-eb91-4b0a-ba6c-5bd9bb8c71b1/migration-from-one-o365-tenant-to-another-o365-without-third-party?forum=onlineservicesmigrationandcoexistence)
+- [Comment migrer des boîtes aux lettres d’un client à un autre](https://docs.microsoft.com/exchange/mailbox-migration/migrate-mailboxes-across-tenants)
+- [Utiliser PowerShell pour effectuer une migration intermédiaire](https://docs.microsoft.com/office365/enterprise/powershell/use-powershell-to-perform-a-staged-migration-to-office-365)
+- [Migration d’un abonnement à un autre sans tiers](https://social.technet.microsoft.com/Forums/en-US/ee507441-eb91-4b0a-ba6c-5bd9bb8c71b1/migration-from-one-o365-tenant-to-another-o365-without-third-party?forum=onlineservicesmigrationandcoexistence)
 
 ## <a name="how-do-i-know-if-my-subscription-was-deleted"></a>Comment savoir si mon abonnement a été supprimé ?
 
@@ -68,12 +68,12 @@ Lorsque votre abonnement est supprimé, une notification apparaît sur votre tab
 
 <img alt="Screenshot of a text box with the title Deleted subscription" src="images/17-deleted-subscription.png" width="500"> 
 
-## <a name="see-also"></a>Voir aussi
+## <a name="see-also"></a>Articles associés
 
-- [Rejoindre le programme pour les développeurs Office 365](office-365-developer-program.md)
-- [Configurez un abonnement Office 365 Développeur](office-365-developer-program-get-started.md)
-- [Utilisation de votre abonnement pour créer des solutions Office 365](build-office-365-solutions.md)
-- [FAQ du programme pour les développeurs Office 365](office-365-developer-program-faq.md)
+- [Rejoignez le programme développeur de Microsoft 365](microsoft-365-developer-program.md)
+- [Configurez un abonnement Microsoft 365 Développeur](microsoft-365-developer-program-get-started.md)
+- [Utilisez votre abonnement pour créer des solutions Microsoft 365](build-microsoft-365-solutions.md)
+- [FAQ sur le programme de développement Microsoft 365](microsoft-365-developer-program-faq.md)
 
 
 
