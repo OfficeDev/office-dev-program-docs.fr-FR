@@ -1,12 +1,12 @@
-- name: Programme de développement Microsoft 365
+- name: "Programme de développement Microsoft\_365"
   href: microsoft-365-developer-program.md
-- name: Configurer un abonnement développeur
+- name: Configuration d’un abonnement développeur
   href: microsoft-365-developer-program-get-started.md
-- name: Créer des solutions
+- name: Création de solutions
   href: build-microsoft-365-solutions.md
-- name: Utiliser des packs de données exemples
+- name: Utiliser des packs d’exemples de données
   href: install-sample-packs.md
-- name: Expiration et renouvellement de l’abonnement
+- name: Renouvellement et expiration d’un abonnement
   href: subscription-expiration-and-renewal.md
 - name: FAQ du programme pour les développeurs
   href: microsoft-365-developer-program-faq.md
