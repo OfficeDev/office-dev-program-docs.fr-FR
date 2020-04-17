@@ -1,7 +1,7 @@
-- name: Office
+- name: Bureau
   tocHref: /office/
   topicHref: /office/index
   items:
-    - name: Programme pour les développeurs
+    - name: Programme de développeur
       tocHref: /office/developer-program/
       topicHref: /office/developer-program
