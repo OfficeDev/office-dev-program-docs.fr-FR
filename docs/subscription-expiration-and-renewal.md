@@ -3,12 +3,12 @@ title: Expiration et renouvellement d’un abonnement au programme pour les dév
 description: Informations sur le renouvellement d’un abonnement Développeur arrivant à expiration.
 ms.date: 04/01/2019
 localization_priority: Priority
-ms.openlocfilehash: 0aa7907a7a2dbf1e1dec4fe5bf7192d8c4b23a54
-ms.sourcegitcommit: 9c7a1aa1c562adb350fefc8068e154fa6f9a4ee3
+ms.openlocfilehash: 1235a28e45babf60b7d40cf08bfcd7992184ff40
+ms.sourcegitcommit: 3d50606496bd0bdbbcf892d2d18de6343a44c576
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 03/11/2020
-ms.locfileid: "42600794"
+ms.lasthandoff: 04/19/2021
+ms.locfileid: "51890195"
 ---
 # <a name="microsoft-365-developer-program-subscription-expiration-and-renewal"></a>Expiration et renouvellement d’un abonnement au programme pour les développeurs Microsoft 365
 
@@ -58,8 +58,8 @@ Nous avons introduit les abonnements renouvelables en août 2018. Si vous avez 
 
 Pour migrer vos données de votre abonnement actuel vers un nouvel abonnement, consultez les ressources suivantes :
 
-- [Comment migrer des boîtes aux lettres d’un client à un autre](https://docs.microsoft.com/exchange/mailbox-migration/migrate-mailboxes-across-tenants)
-- [Utiliser PowerShell pour effectuer une migration intermédiaire](https://docs.microsoft.com/office365/enterprise/powershell/use-powershell-to-perform-a-staged-migration-to-office-365)
+- [Comment migrer des boîtes aux lettres d’un client à un autre](/exchange/mailbox-migration/migrate-mailboxes-across-tenants)
+- [Utiliser PowerShell pour effectuer une migration intermédiaire](/office365/enterprise/powershell/use-powershell-to-perform-a-staged-migration-to-office-365)
 - [Migration d’un abonnement à un autre sans tiers](https://social.technet.microsoft.com/Forums/en-US/ee507441-eb91-4b0a-ba6c-5bd9bb8c71b1/migration-from-one-o365-tenant-to-another-o365-without-third-party?forum=onlineservicesmigrationandcoexistence)
 
 ## <a name="how-do-i-know-if-my-subscription-was-deleted"></a>Comment savoir si mon abonnement a été supprimé ?
