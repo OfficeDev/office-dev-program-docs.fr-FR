@@ -1,5 +1,7 @@
 - name: "Programme de développement Microsoft\_365"
   href: microsoft-365-developer-program.md
+- name: Adhérer avec un abonnement à Visual Studio
+  href: join-with-visual-studio.md
 - name: Configuration d’un abonnement développeur
   href: microsoft-365-developer-program-get-started.md
 - name: Création de solutions
