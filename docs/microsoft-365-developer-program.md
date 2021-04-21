@@ -1,17 +1,19 @@
 ---
-title: Rejoignez le programme Développeur de Microsoft 365
+title: Bienvenue dans le programme pour les développeurs Microsoft 365 !
 description: Rejoignez le programme pour les Développeurs Microsoft 365 pour développer des solutions Microsoft 365 indépendamment de votre environnement de production.
 localization_priority: Priority
-ms.openlocfilehash: f058f69ea726f948e1aa30232fe611d7f459a2f4
-ms.sourcegitcommit: 9c7a1aa1c562adb350fefc8068e154fa6f9a4ee3
+ms.openlocfilehash: 31414ea3b88e711f81ba8a5d879e6e666ecbaa3b
+ms.sourcegitcommit: 3d50606496bd0bdbbcf892d2d18de6343a44c576
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 03/11/2020
-ms.locfileid: "42601294"
+ms.lasthandoff: 04/19/2021
+ms.locfileid: "51890157"
 ---
 # <a name="welcome-to-the-microsoft-365-developer-program"></a>Bienvenue dans le programme pour les développeurs Microsoft 365 !
 
-Rejoignez vos amis et vos collègues dans le programme pour les développeurs Microsoft 365. Utilisez l’abonnement Microsoft 365 Développeur pour développer vos solutions indépendamment de votre environnement de production. Vous pouvez créer des solutions pour Microsoft Teams, les compléments Office, Microsoft Graph, SharePoint Framework, les compléments SharePoint, etc.
+Le programme pour les développeurs Microsoft 365 inclut un abonnement pour les développeurs Microsoft 365 E5 qui vous permet de créer votre propre bac à sable, puis de développer des solutions indépendantes de votre environnement de production. Vous pouvez créer des applications Microsoft Teams, des Compléments Office pour Word, Excel, PowerPoint ou Outlook, ou des Compléments SharePoint, à l’aide de Microsoft Graph, de SharePoint Framework, de Power Apps, et bien plus encore.
+
+Vous avez un abonnement Visual Studio Professional ou Enterprise ? Si c’est le cas, vous pouvez tirer parti d’avantages supplémentaires lorsque vous adhérez au programme. Si vous souhaitez en savoir plus, veuillez consulter la rubrique [Adhérer avec Visual Studio](join-with-visual-studio.md).
 
 ## <a name="join-the-microsoft-365-developer-program"></a>Rejoignez le programme Développeur de Microsoft 365
 
@@ -36,13 +38,13 @@ Rejoignez vos amis et vos collègues dans le programme pour les développeurs Mi
 
 7. Cliquez sur **Suivant**.
 
-8. Sur la page **Préférences du programme pour les développeurs Microsoft 365**, donnez vos préférences afin que nous puissions personnaliser votre expérience, notamment :
+8. Sur la page **Préférences du programme pour les développeurs Microsoft 365**, donnez vos préférences pour que nous puissions personnaliser votre expérience, notamment :
 
     - Le secteur dans lequel vous travaillez.
     - Le type d’applications ou de solutions que vous aimeriez développer.
     - Les produits, technologies et langages de programmation qui vous intéressent.
 
-9. Lorsque vous avez terminé, sélectionnez **Rejoindre**. Vos préférences apparaissent en haut à droite de la page suivante, et vous recevez un message de bienvenue.
+9. Lorsque vous avez terminé, sélectionnez **Rejoindre**. Vos préférences apparaissent en haut à droite de la page suivante ; vous recevrez un message et un e-mail de bienvenue.
 
 
 

@@ -1,25 +1,23 @@
 ---
-title: Configurer un abonnement Microsoft 365 Développeur
-description: Configurez un abonnement Microsoft 365 Développeur pour créer des solutions, indépendamment de votre environnement de production.
+title: Configurer un abonnement bac à sable Microsoft 365
+description: Configurez un abonnement Microsoft 365 pour les développeurs pour créer des solutions, indépendamment de votre environnement de production.
 ms.date: 04/01/2019
 localization_priority: Priority
-ms.openlocfilehash: 4aa500e0688c43186d574e94e3f94081a87b89e4
-ms.sourcegitcommit: 9c7a1aa1c562adb350fefc8068e154fa6f9a4ee3
+ms.openlocfilehash: 49bfba3133351dfc67b6686250fb9152fc8d9688
+ms.sourcegitcommit: 3d50606496bd0bdbbcf892d2d18de6343a44c576
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 03/11/2020
-ms.locfileid: "42601297"
+ms.lasthandoff: 04/19/2021
+ms.locfileid: "51890181"
 ---
-# <a name="set-up-a-microsoft-365-developer-subscription"></a>Configurer un abonnement Microsoft 365 Développeur 
+# <a name="set-up-a-microsoft-365-developer-sandbox-subscription"></a>Configurer un abonnement bac à sable Microsoft 365 
 
 Configurez un abonnement Microsoft 365 Développeur pour créer vos solutions indépendamment de votre environnement de production. L’abonnement est un abonnement Microsoft 365 E5 Développeur avec 25 licences utilisateur. Il est valable 90 jours et est gratuit pour une utilisation à des fins de développement uniquement (solutions d’encodage). 
 
-Les clients qui ont rejoint le programme avant le 25 août 2019 disposent d’un abonnement Office 365 E3 Développeur.
-
 > [!NOTE] 
-> Pour configurer un abonnement, vous devez d’abord [rejoindre le programme pour les développeurs Microsoft 365](microsoft-365-developer-program.md). Après avoir rejoint le programme, l’option pour configurer un abonnement s’affiche.
+> Pour configurer un abonnement, vous devez tout d’abord [adhérer au programme pour les développeurs Microsoft 365](microsoft-365-developer-program.md) directement ou via Visual Studio Professional ou Enterprise (si vous êtes abonné). Dès que vous avez adhéré au programme, l’option de configuration d’un abonnement s’affiche.
 
-## <a name="set-up-your-subscription"></a>Configurer votre abonnement
+## <a name="set-up-your-microsoft-365-e5-sandbox-subscription"></a>Configurer votre abonnement bac à sable Microsoft 365 E5
 
 1. Pour obtenir un abonnement Microsoft 365 Développeur, sur votre page de profil, sélectionnez **Configurer un abonnement**.
 

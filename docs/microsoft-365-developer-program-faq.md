@@ -3,12 +3,12 @@ title: FAQ sur le programme de développement Microsoft 365
 description: Questions fréquemment posées concernant le programme pour les développeurs Microsoft 365.
 ms.date: 04/01/2019
 localization_priority: Priority
-ms.openlocfilehash: e52eccadf91e9a42534a79cb1ec7f6d48dbede46
-ms.sourcegitcommit: 9c7a1aa1c562adb350fefc8068e154fa6f9a4ee3
+ms.openlocfilehash: 61e75fbf308e2cf92ea1ed3c135874a3357cf147
+ms.sourcegitcommit: 3d50606496bd0bdbbcf892d2d18de6343a44c576
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 03/11/2020
-ms.locfileid: "42601286"
+ms.lasthandoff: 04/19/2021
+ms.locfileid: "51890188"
 ---
 # <a name="microsoft-365-developer-program-faq"></a>FAQ sur le programme de développement Microsoft 365
 
@@ -33,7 +33,7 @@ Pour plus d’informations, reportez-vous à l’article [Rejoignez le programme
 Vous pouvez vous inscrire au programme pour les développeurs à l’aide d’un des types de comptes suivants :
 
 - **Compte Microsoft** (créé par vous pour une utilisation personnelle) : fournit un accès à tous les services cloud et produits Microsoft destinés aux consommateurs, tels que Outlook (Hotmail), Messenger, OneDrive, MSN, Xbox Live ou Microsoft 365. Toute inscription à une boîte aux lettres Outlook.com crée automatiquement un compte Microsoft. Une fois le compte Microsoft créé, celui-ci peut être utilisé pour accéder aux services de cloud computing Microsoft liés aux consommateurs ou à Azure. 
-- **Compte professionnel** (émis par un administrateur pour une utilisation professionnelle) : fournit un accès à tous les services de cloud computing Microsoft aux petites, moyennes et grandes entreprises, tels qu’Azure, Microsoft Intune ou Microsoft 365. Lorsque vous vous inscrivez à l’un de ces services en tant qu’organisation, un répertoire informatique est automatiquement configuré dans Azure Active Directory pour représenter votre organisation. Pour plus d’informations, reportez-vous à l’article [Gérer votre répertoire Azure AD](https://docs.microsoft.com/azure/active-directory/active-directory-administer).
+- **Compte professionnel** (émis par un administrateur pour une utilisation professionnelle) : fournit un accès à tous les services de cloud computing Microsoft aux petites, moyennes et grandes entreprises, tels qu’Azure, Microsoft Intune ou Microsoft 365. Lorsque vous vous inscrivez à l’un de ces services en tant qu’organisation, un répertoire informatique est automatiquement configuré dans Azure Active Directory pour représenter votre organisation. Pour plus d’informations, reportez-vous à l’article [Gérer votre répertoire Azure AD](/azure/active-directory/active-directory-administer).
 - **Visual Studio ID** (créé pour vos abonnements Visual Studio Professional ou entreprise) : nous vous recommandons d’utiliser cette option pour rejoindre le programme développeur à partir de la galerie Visual Studio pour profiter des avantages en tant qu’abonné Visual Studio. 
 
 ## <a name="how-can-i-get-a-microsoft-365-developer-subscription-via-the-developer-program"></a>Comment obtenir un abonnement Microsoft 365 Développeur via le programme pour les développeurs ?  
@@ -59,12 +59,13 @@ L’abonnement Office 365 E3 Développeur inclut les éléments suivants :
 - [Protection des informations pour Office 365 – Standard](https://products.office.com/fr-FR/business/azure-information-protection-for-office-365)
 - [Microsoft Forms (Plan E5)](https://support.office.com/article/Frequently-asked-questions-about-Microsoft-Forms-495c4242-6102-40a0-add8-df05ed6af61c)
 - [Planificateur Microsoft](https://products.office.com/compare-all-microsoft-office-products?tab=2)
-- [Recherche Microsoft](https://products.office.com/en-us/business/intelligent-search?tab=Discovery)
+- 
+  [Recherche Microsoft](https://products.office.com/en-us/business/intelligent-search?tab=Discovery)
 - [Microsoft Stream pour Office 365 E5](https://products.office.com/business/office-365-enterprise-e5-business-software)
 - [Microsoft Teams](https://products.office.com/business/office-365-enterprise-e5-business-software)
 - [Gestion des appareils mobiles pour Office 365](https://support.office.com/article/Set-up-Mobile-Device-Management-MDM-in-Office-365-dd892318-bc44-4eb1-af00-9db5430be3cd)
 - [Office 365 ProPlus](https://products.office.com/business/office-365-proplus-business-software)
-- [Office pour le web](https://docs.microsoft.com/office365/servicedescriptions/office-online-service-description/office-online-service-description)
+- [Office pour le web](/office365/servicedescriptions/office-online-service-description/office-online-service-description)
 - [PowerApps pour Office 365](https://powerapps.microsoft.com/pricing/)
 - [SharePoint Online pour les développeurs](https://products.office.com/SharePoint/compare-sharepoint-plans)
 - [Skype Entreprise Online (Plan 2)](https://products.office.com/skype-for-business/online-meeting-solutions)
@@ -177,17 +178,17 @@ Pour l’instant, seuls les nouveaux membres du programme Microsoft 365 Dévelo
 
 ## <a name="can-i-choose-whether-to-have-an-office-365-e3-or-a-microsoft-365-e5-subscription"></a>Ai-je le choix entre un abonnement Office 365 E3 ou Microsoft 365 E5 ?
 
-Pour l’instant, seuls les nouveaux membres du programme développeur sont invités à utiliser un abonnement Microsoft 365 E5. Les membres existants disposant d’un abonnement Office 365 E3 auront la possibilité de conserver leur abonnement actuel et de continuer à le renouveler s’ils n’ont pas besoin des nouvelles fonctionnalités offertes dans Microsoft 365 E5. Les membres du programme développeur ne peuvent avoir qu’un seul abonnement.  
+Pour l’instant, seuls les nouveaux membres du programme développeur sont invités à utiliser un abonnement Microsoft 365 E5. Les membres existants disposant d’un abonnement Office 365 E3 pourront conserver leur abonnement actuel, puis continuer à le renouveler s’ils n’ont pas besoin des nouvelles fonctionnalités offertes par Microsoft 365 E5. Les membres du programme développeur ne peuvent avoir qu’un seul abonnement.  
 
 Lorsqu’une migration sera possible pour les membres actuels du programme développeur, nous fournirons davantage d’informations sur le processus de migration. 
 
 ## <a name="as-a-microsoft-partner-can-i-receive-a-subscription"></a>En tant que partenaire Microsoft, puis-je bénéficier d’un abonnement ? 
 
-Oui, vous pouvez suivre [ces instructions](microsoft-365-developer-program.md) pour rejoindre le programme pour les développeurs Microsoft 365 et configurer un abonnement Microsoft 365 Développeur. Toutefois, si vous disposez déjà d’un abonnement Visual Studio Entreprise ou Visual Studio Professionnel (MSDN), vous pouvez obtenir un abonnement Microsoft 365 Développeur comme bénéfice. Pour accéder à cela, allez à [Visual Studio | Mes avantages](https://my.visualstudio.com/benefits). Pour plus d’informations, contactez le [Service clientèle Visual Studio](https://www.visualstudio.com/subscriptions/support/). 
+Oui, vous pouvez suivre [ces instructions](microsoft-365-developer-program.md) pour rejoindre le programme pour les développeurs Microsoft 365 et configurer un abonnement Microsoft 365 Développeur. Toutefois, si vous disposez déjà d’un abonnement Visual Studio Enterprise ou Visual Studio Professional, vous pouvez obtenir un abonnement Microsoft 365 pour les développeurs comme bénéfice. Pour accéder à cela, allez à [Visual Studio | Mes avantages](https://my.visualstudio.com/benefits). Pour plus d’informations, contactez le [Service clientèle Visual Studio](https://www.visualstudio.com/subscriptions/support/). 
 
 ## <a name="as-a-full-time-microsoft-employee-can-i-receive-a-subscription"></a>En tant qu’employé à plein temps de Microsoft, puis-je bénéficier d’un abonnement ?
 
-Les employés de Microsoft ne peuvent pas s’inscrire à cette offre. Tous les employés à plein temps de Microsoft ont accès à un abonnement Visual Studio (MSDN) gratuit qui inclut l’accès à un abonnement Microsoft 365 E5 Développeur. Vous pouvez accéder à cet avantage dans [Visual Studio | Mes avantages](https://my.visualstudio.com/benefits).
+Les employés de Microsoft ne peuvent pas s’inscrire à cette offre. Tous les employés à plein temps de Microsoft ont accès à un abonnement Visual Studio gratuit qui inclut l’accès à un abonnement Microsoft 365 E5 pour les développeurs. Vous pouvez accéder à cet avantage dans [Visual Studio | Mes avantages](https://my.visualstudio.com/benefits).
 
 ## <a name="as-a-vendor-working-at-microsoft-do-i-qualify-for-a-subscription"></a>En tant que fournisseur travaillant chez Microsoft, puis-je bénéficier d’un abonnement ?
 
