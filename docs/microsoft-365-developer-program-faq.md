@@ -3,12 +3,12 @@ title: FAQ sur le programme de développement Microsoft 365
 description: Questions fréquemment posées concernant le programme pour les développeurs Microsoft 365.
 ms.date: 04/01/2019
 localization_priority: Priority
-ms.openlocfilehash: 61e75fbf308e2cf92ea1ed3c135874a3357cf147
-ms.sourcegitcommit: 3d50606496bd0bdbbcf892d2d18de6343a44c576
+ms.openlocfilehash: cbc15fbfaf5873a21eda6d100b590121fe2328cb
+ms.sourcegitcommit: c70eb4a7cab5b403e602d7ddf8abf3cff5054346
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 04/19/2021
-ms.locfileid: "51890188"
+ms.lasthandoff: 05/12/2021
+ms.locfileid: "52331323"
 ---
 # <a name="microsoft-365-developer-program-faq"></a>FAQ sur le programme de développement Microsoft 365
 
@@ -170,7 +170,9 @@ Pour plus d’informations, voir [expiration de l’abonnement et renouvellement
 
 Vous disposez de 30 jours après l’expiration de votre abonnement pour migrer des données. Pendant ces 30 jours, seul l’administrateur a accès à l’abonnement et le 60ème jour, l’abonnement et toutes les données sont supprimés.
 
-<a name="account-types"> </a>
+## <a name="why-should-i-link-my-github-account"></a>Pourquoi dois-je lier mon compte GitHub ?
+
+Lorsque vous rejoignez le programme pour les développeurs Microsoft 365, sur votre page [Mes paramètres](https://developer.microsoft.com/microsoft-365/profile/settings/preferences) , vous pouvez lier votre compte GitHub à votre compte de programme pour les développeurs. La liaison de votre compte GitHub sera prise en compte lors du renouvellement de votre abonnement au bac à sable pour développeurs Microsoft 365. Vous pouvez également choisir de dissocier votre compte en vous rendant dans la section [Comptes liés](https://developer.microsoft.com/microsoft-365/profile/settings/accounts-linked) de votre page **Mes paramètres**.
 
 ## <a name="how-can-i-migrate-from-an-office-365-e3-subscription-to-a-microsoft-365-e5-subscription"></a>Comment effectuer une migration à partir d’un abonnement Office 365 E3 vers un abonnement Microsoft 365 E5 ?
 
