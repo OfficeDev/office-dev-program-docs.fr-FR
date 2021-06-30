@@ -1,4 +1,4 @@
-- name: "Programme de développement Microsoft\_365"
+- name: Programme de développement Microsoft 365
   href: microsoft-365-developer-program.md
 - name: Adhérer avec un abonnement à Visual Studio
   href: join-with-visual-studio.md
@@ -11,6 +11,6 @@
 - name: Renouvellement et expiration d’un abonnement
   href: subscription-expiration-and-renewal.md
 - name: FAQ du programme pour les développeurs
-  href: microsoft-365-developer-program-faq.md
+  href: microsoft-365-developer-program-faq.yml
 - name: Conditions générales
   href: terms-and-conditions.md
