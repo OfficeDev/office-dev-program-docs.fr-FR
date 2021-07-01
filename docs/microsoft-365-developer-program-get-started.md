@@ -1,25 +1,25 @@
 ---
-title: Configurer un abonnement bac à sable Microsoft 365
-description: Configurez un abonnement Microsoft 365 pour les développeurs pour créer des solutions, indépendamment de votre environnement de production.
+title: Configurer un abonnement bac à sable Microsoft 365
+description: Configurez un abonnement Microsoft 365 pour les développeurs pour créer des solutions, indépendamment de votre environnement de production.
 ms.date: 04/01/2019
 localization_priority: Priority
-ms.openlocfilehash: 49bfba3133351dfc67b6686250fb9152fc8d9688
-ms.sourcegitcommit: 3d50606496bd0bdbbcf892d2d18de6343a44c576
+ms.openlocfilehash: c35814955abb2158a076d6ca566c3bf76fc5289f
+ms.sourcegitcommit: 97bf9ba32eaa1df134d563b99b5fa873600b7921
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 04/19/2021
-ms.locfileid: "51890181"
+ms.lasthandoff: 06/30/2021
+ms.locfileid: "53206915"
 ---
-# <a name="set-up-a-microsoft-365-developer-sandbox-subscription"></a>Configurer un abonnement bac à sable Microsoft 365 
+# <a name="set-up-a-microsoft-365-developer-sandbox-subscription"></a>Configurer un abonnement bac à sable Microsoft 365 
 
-Configurez un abonnement Microsoft 365 Développeur pour créer vos solutions indépendamment de votre environnement de production. L’abonnement est un abonnement Microsoft 365 E5 Développeur avec 25 licences utilisateur. Il est valable 90 jours et est gratuit pour une utilisation à des fins de développement uniquement (solutions d’encodage). 
+Configurez un abonnement Microsoft 365 Développeur pour créer vos solutions indépendamment de votre environnement de production. L’abonnement est un abonnement Microsoft 365 E5 Développeur avec 25 licences utilisateur. Il est valable 90 jours et est gratuit pour une utilisation à des fins de développement uniquement (solutions d’encodage). 
 
 > [!NOTE] 
-> Pour configurer un abonnement, vous devez tout d’abord [adhérer au programme pour les développeurs Microsoft 365](microsoft-365-developer-program.md) directement ou via Visual Studio Professional ou Enterprise (si vous êtes abonné). Dès que vous avez adhéré au programme, l’option de configuration d’un abonnement s’affiche.
+> Pour configurer un abonnement, vous devez tout d’abord [adhérer au programme pour les développeurs Microsoft 365](microsoft-365-developer-program.md) directement ou via Visual Studio Professional ou Enterprise (si vous êtes abonné). Dès que vous avez adhéré au programme, l’option de configuration d’un abonnement s’affiche.
 
-## <a name="set-up-your-microsoft-365-e5-sandbox-subscription"></a>Configurer votre abonnement bac à sable Microsoft 365 E5
+## <a name="set-up-your-microsoft-365-e5-sandbox-subscription"></a>Configurer votre abonnement bac à sable Microsoft 365 E5
 
-1. Pour obtenir un abonnement Microsoft 365 Développeur, sur votre page de profil, sélectionnez **Configurer un abonnement**.
+1. Pour obtenir un abonnement Microsoft 365 Développeur, sur votre page de profil, sélectionnez **Configurer un abonnement**.
 
 2. Dans la boîte de dialogue **Configurer votre abonnement Développeur**, créez un nom d’utilisateur et un domaine. Ce compte disposera des autorisations d’administrateur général pour l’abonnement. Vous pouvez choisir n’importe quel nom d’utilisateur ou nom de domaine dans la mesure où il n’est pas déjà utilisé. N’utilisez pas d’espaces.
 
@@ -68,25 +68,25 @@ Configurez un abonnement Microsoft 365 Développeur pour créer vos solutions i
    > [!NOTE] 
    > À ce stade, la région de l’abonnement est définie par défaut sur Amérique du Nord, quel que soit votre pays/région. Vous pouvez malgré tout poursuivre la configuration et utiliser votre abonnement Développeur.
 
-## <a name="provision-microsoft-365-services"></a>Configurer des services Microsoft 365
+## <a name="provision-microsoft-365-services"></a>Configurer des services Microsoft 365
 
-Les services principaux, tels que SharePoint et Exchange, mettront un certain temps à configurer l’abonnement. Au cours de cette étape, certaines icônes du lanceur d’applications et de la page d’accueil affichent le message suivant : **Configuration (Configuration de l’application toujours en cours)**. Cette opération ne dure pas plus d’une heure.
+Les services principaux, tels que SharePoint et Exchange, mettront un certain temps à configurer l’abonnement. Au cours de cette étape, certaines icônes du lanceur d’applications et de la page d’accueil affichent le message suivant : **Configuration (Configuration de l’application toujours en cours)**. Cette opération ne dure pas plus d’une heure.
 
-Une fois la configuration terminée, vous pouvez utiliser le nouvel abonnement Microsoft 365 pour le développement. L’abonnement expire au bout de 90 jours. Pour le prolonger, reportez-vous à l’article [Lorsque mon abonnement est sur le point d’expirer, puis-je le prolonger ?](microsoft-365-developer-program-faq.md#renew-subscription).
+Une fois la configuration terminée, vous pouvez utiliser le nouvel abonnement Microsoft 365 pour le développement. L’abonnement expire au bout de 90 jours. Pour le prolonger, reportez-vous à l’article [Lorsque mon abonnement est sur le point d’expirer, puis-je le prolonger ?](microsoft-365-developer-program-faq.yml#renew-subscription).
 
-Nous vous recommandons également d’activer les options de publication pour vous assurer que vous avez accès aux dernières fonctionnalités de Microsoft 365 dès que possible. Pour plus d’informations, reportez-vous à l’article [Configurer les options de publications standard et ciblée](https://support.office.com/article/set-up-the-standard-or-targeted-release-options-in-office-365-3b3adfa4-1777-4ff0-b606-fb8732101f47).
+Nous vous recommandons également d’activer les options de publication pour vous assurer que vous avez accès aux dernières fonctionnalités de Microsoft 365 dès que possible. Pour plus d’informations, reportez-vous à l’article [Configurer les options de publications standard et ciblée](https://support.office.com/article/set-up-the-standard-or-targeted-release-options-in-office-365-3b3adfa4-1777-4ff0-b606-fb8732101f47).
 
-## <a name="set-up-a-microsoft-azure-account"></a>Configuration d’un compte Microsoft Azure
+## <a name="set-up-a-microsoft-azure-account"></a>Configuration d’un compte Microsoft Azure
 
-Pour certaines solutions Office, vous aurez peut-être besoin d’un compte Microsoft Azure pour créer des éléments à l’aide des services Azure. Pour configurer un compte Azure gratuit, reportez-vous à l’article [Créez votre compte gratuit Azure dès aujourd’hui](https://azure.microsoft.com/free/).
+Pour certaines solutions Office, vous aurez peut-être besoin d’un compte Microsoft Azure pour créer des éléments à l’aide des services Azure. Pour configurer un compte Azure gratuit, reportez-vous à l’article [Créez votre compte gratuit Azure dès aujourd’hui](https://azure.microsoft.com/free/).
 
 ## <a name="install-sample-data-packs"></a>Installer des packs d’exemples de données
 
-Vous pouvez installer des packs d’exemples de données dans votre abonnement au programme Microsoft 365 Développeur. Les packs d’exemples de données vous permettent de gagner du temps en installant automatiquement des données et le contenu nécessaire pour créer et tester vos solutions. Ceci inclut des utilisateurs, des métadonnées et des photos fictives pour simuler un petit environnement d’entreprise. Pour plus d’informations sur les exemples de packs de données disponibles et la façon de les installer, voir [Installer des exemples de packs de données](install-sample-packs.md).
+Vous pouvez installer des packs d’exemples de données dans votre abonnement au programme Microsoft 365 Développeur. Les packs d’exemples de données vous permettent de gagner du temps en installant automatiquement des données et le contenu nécessaire pour créer et tester vos solutions. Ceci inclut des utilisateurs, des métadonnées et des photos fictives pour simuler un petit environnement d’entreprise. Pour plus d’informations sur les exemples de packs de données disponibles et la façon de les installer, voir [Installer des exemples de packs de données](install-sample-packs.md).
 
 ## <a name="see-also"></a>Articles associés
 
-- [Rejoignez le programme Développeur de Microsoft 365](microsoft-365-developer-program.md)
-- [Utilisez votre abonnement pour créer des solutions Microsoft 365](build-microsoft-365-solutions.md)
+- [Rejoignez le programme Développeur de Microsoft 365](microsoft-365-developer-program.md)
+- [Utilisez votre abonnement pour créer des solutions Microsoft 365](build-microsoft-365-solutions.md)
 - [Renouveler un abonnement arrivant à expiration](subscription-expiration-and-renewal.md)
-- [FAQ sur le programme de développement Microsoft 365](microsoft-365-developer-program-faq.md)
+- [FAQ sur le programme de développement Microsoft 365](microsoft-365-developer-program-faq.yml)
