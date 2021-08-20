@@ -4,12 +4,12 @@ metadata:
   description: Questions fréquemment posées concernant le programme pour les développeurs Microsoft 365.
   ms.date: 04/01/2019
   localization_priority: Priority
-  ms.openlocfilehash: 231fc0fa6d6a8ab2fb12e154542a637d829ef6bf
-  ms.sourcegitcommit: 97bf9ba32eaa1df134d563b99b5fa873600b7921
+  ms.openlocfilehash: 64c0459ebee710b3d6d9acb9cf6baf9cb4b077a3
+  ms.sourcegitcommit: 24feefce06cf63bbb5408c816f7d06994b73f5d3
   ms.translationtype: MT
   ms.contentlocale: fr-FR
-  ms.lasthandoff: 06/30/2021
-  ms.locfileid: "53206923"
+  ms.lasthandoff: 08/20/2021
+  ms.locfileid: "58408460"
 title: FAQ sur le programme de développement Microsoft 365
 summary: Voici les questions fréquemment posées concernant le programme pour les développeurs Microsoft 365.
 sections:
@@ -82,14 +82,14 @@ sections:
       <a name="account-types"> </a>
   - question: >
       Comment effectuer une migration à partir d’un abonnement Office 365 E3 vers un abonnement Microsoft 365 E5 ?
-    answer: "Pour l’instant, seuls les nouveaux membres du programme Microsoft 365 Développeur reçoivent automatiquement un abonnement Microsoft 365 E5 Développeur. Les utilisateurs existants pourront effectuer une migration vers un abonnement Microsoft 365 E5 à l’avenir. Ne vous inquiétez pas, nous mettons tout en œuvre pour permettre à tous les membres du programme Office 365 Développeur de migrer vers Microsoft 365 E5. \n"
+    answer: "Pour l’instant, seuls les nouveaux membres du programme Microsoft 365 Développeur reçoivent automatiquement un abonnement Microsoft 365 E5 Développeur. Les utilisateurs existants pourront migrer vers un abonnement Microsoft 365 E5 de migration. \n\nSi vous choisissez de migrer vers un abonnement Microsoft 365 E5, vous pouvez utiliser l’outil gratuit [Microsoft Mover](https://mover.io/) pour migrer vos données. Consultez également les ressources suivantes :\n\n- [Comment migrer des boîtes aux lettres d’un Microsoft 365 client vers un autre](https://docs.microsoft.com/en-us/exchange/mailbox-migration/migrate-mailboxes-across-tenants)\n- [Utilisation de PowerShell pour effectuer une migration Office 365](https://docs.microsoft.com/en-us/microsoft-365/enterprise/use-powershell-to-perform-a-staged-migration-to-microsoft-365?view=o365-worldwide)\n- [Migrer votre contenu vers Microsoft 365](https://docs.microsoft.com/en-us/sharepointmigration/migrate-to-sharepoint-online)\n"
   - question: >
       Pourquoi dois-je lier mon compte GitHub ?
     answer: >
       Lorsque vous rejoignez le programme pour les développeurs Microsoft 365, sur votre page [Mes paramètres](https://developer.microsoft.com/microsoft-365/profile/settings/preferences) , vous pouvez lier votre compte GitHub à votre compte de programme pour les développeurs. La liaison de votre compte GitHub sera prise en compte lors du renouvellement de votre abonnement au bac à sable pour développeurs Microsoft 365. Vous pouvez également choisir de dissocier votre compte en vous rendant dans la section [Comptes liés](https://developer.microsoft.com/microsoft-365/profile/settings/accounts-linked) de votre page **Mes paramètres**.
   - question: >
       Ai-je le choix entre un abonnement Office 365 E3 ou Microsoft 365 E5 ?
-    answer: "Pour l’instant, seuls les nouveaux membres du programme développeur sont invités à utiliser un abonnement Microsoft 365 E5. Les membres existants disposant d’un abonnement Office 365 E3 pourront conserver leur abonnement actuel, puis continuer à le renouveler s’ils n’ont pas besoin des nouvelles fonctionnalités offertes par Microsoft 365 E5. Les membres du programme développeur ne peuvent avoir qu’un seul abonnement.  \n\nLorsqu’une migration sera possible pour les membres actuels du programme développeur, nous fournirons davantage d’informations sur le processus de migration. \n"
+    answer: "Actuellement, les nouveaux membres du programme pour les développeurs ne disposent que d’Microsoft 365 E5 abonnement. Les membres existants avec un abonnement Office 365 E3 auront la possibilité de conserver leur abonnement actuel et de continuer à le renouveler s’ils n’ont pas besoin des nouvelles fonctionnalités proposées dans Microsoft 365 E5, ou d’une mise à niveau à durée uniques vers un abonnement Microsoft 365 E5. Les membres du programme pour les développeurs ne peuvent avoir qu’un seul abonnement.  \n"
   - question: "En tant que partenaire Microsoft, puis-je bénéficier d’un abonnement ? \n"
     answer: "Oui, vous pouvez suivre [ces instructions](microsoft-365-developer-program.md) pour rejoindre le programme pour les développeurs Microsoft 365 et configurer un abonnement Microsoft 365 Développeur. Toutefois, si vous disposez déjà d’un abonnement Visual Studio Enterprise ou Visual Studio Professional, vous pouvez obtenir un abonnement Microsoft 365 pour les développeurs comme bénéfice. Pour accéder à cela, allez à [Visual Studio | Mes avantages](https://my.visualstudio.com/benefits). Pour plus d’informations, contactez le [Service clientèle Visual Studio](https://www.visualstudio.com/subscriptions/support/). \n"
   - question: >
@@ -128,11 +128,11 @@ sections:
     answer: "Si vous rencontrez des problèmes lors de la configuration de votre abonnement, consultez les ressources d’assistance suivantes :\n\n- [Stack Overflow](https://stackoverflow.com/questions)   \n- [Service clientèle Visual Studio](https://www.visualstudio.com/subscriptions/support/)\n"
   - question: >
       Articles associés
-    answer: >
-      - [Rejoignez le programme développeur de Microsoft 365](microsoft-365-developer-program.md)
+    answer: >-
+      - [Rejoignez le programme développeur de Microsoft 365](microsoft-365-developer-program.md)
 
-      - [Configurez un abonnement Microsoft 365 Développeur](microsoft-365-developer-program-get-started.md)
+      - [Configurez un abonnement Microsoft 365 Développeur](microsoft-365-developer-program-get-started.md)
 
-      - [Utilisez votre abonnement pour créer des solutions Microsoft 365](build-microsoft-365-solutions.md)
+      - [Utilisez votre abonnement pour créer des solutions Microsoft 365](build-microsoft-365-solutions.md)
 
       - [Renouveler un abonnement arrivant à expiration](subscription-expiration-and-renewal.md)
