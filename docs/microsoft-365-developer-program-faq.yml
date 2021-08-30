@@ -4,12 +4,12 @@ metadata:
   description: Questions fréquemment posées concernant le programme pour les développeurs Microsoft 365.
   ms.date: 04/01/2019
   localization_priority: Priority
-  ms.openlocfilehash: 64c0459ebee710b3d6d9acb9cf6baf9cb4b077a3
-  ms.sourcegitcommit: 24feefce06cf63bbb5408c816f7d06994b73f5d3
+  ms.openlocfilehash: 4c0eb41ec477df73e8760118225b1544a77e70de
+  ms.sourcegitcommit: 1bd3cd014653f16b15c019bfbc0eceb01a273512
   ms.translationtype: MT
   ms.contentlocale: fr-FR
-  ms.lasthandoff: 08/20/2021
-  ms.locfileid: "58408460"
+  ms.lasthandoff: 08/27/2021
+  ms.locfileid: "58683134"
 title: FAQ sur le programme de développement Microsoft 365
 summary: Voici les questions fréquemment posées concernant le programme pour les développeurs Microsoft 365.
 sections:
@@ -101,13 +101,12 @@ sections:
     answer: >
       Oui, vous pouvez suivre [ces instructions](microsoft-365-developer-program.md) pour rejoindre le programme pour les développeurs Microsoft 365 et configurer un abonnement Microsoft 365 Développeur. Mais même pour les fournisseurs, cet abonnement est conçu pour être utilisé _uniquement pour le développement d’applications_. Si vous n’effectuez pas d’activité de développement valide, votre abonnement ne sera pas renouvelé.
   - question: >
-      Le programme Microsoft 365 Développeur est-il disponible dans ma langue ?
-    answer: >
-      En plus de l’anglais, le programme Microsoft 365 pour les développeurs est disponible dans les langues suivantes : chinois (simplifié), français, allemand, japonais, portugais (Brésil), russe et espagnol.
-  - question: >
       L’abonnement Microsoft 365 Développeur est-il disponible dans ma langue ?
     answer: >
       L’abonnement pour les développeurs Microsoft 365 est proposé uniquement en anglais.
+
+
+      Le site web du programme pour les développeurs est disponible dans les langues suivantes : chinois (simplifié), français, allemand, japonais, portugais (Brésil), russe et espagnol.
   - question: >
       Comment puis-je quitter le programme développeur de Microsoft 365 ?
     answer: >
