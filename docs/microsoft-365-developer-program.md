@@ -1,13 +1,13 @@
 ---
 title: Bienvenue dans le programme pour les développeurs Microsoft 365 !
 description: Rejoignez le programme pour les Développeurs Microsoft 365 pour développer des solutions Microsoft 365 indépendamment de votre environnement de production.
-localization_priority: Priority
-ms.openlocfilehash: 1beb4ce8946ac64d574328c8fc1c771a0700cd4d
-ms.sourcegitcommit: 97bf9ba32eaa1df134d563b99b5fa873600b7921
+ms.localizationpriority: high
+ms.openlocfilehash: 6694e1d3f31ea8f52b537707a44f251a895eb85e
+ms.sourcegitcommit: aadd59458002b5ffcb857e92eb46c92669587d78
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 06/30/2021
-ms.locfileid: "53206901"
+ms.lasthandoff: 09/16/2021
+ms.locfileid: "59396692"
 ---
 # <a name="welcome-to-the-microsoft-365-developer-program"></a>Bienvenue dans le programme pour les développeurs Microsoft 365 !
 
@@ -17,7 +17,7 @@ Vous avez un abonnement Visual Studio Professional ou Enterprise ? Si c’est le
 
 ## <a name="join-the-microsoft-365-developer-program"></a>Rejoignez le programme Développeur de Microsoft 365
 
-1. Accédez à la page [Rejoignez le programme Développeur de Microsoft 365](https://developer.microsoft.com/fr-FR/microsoft-365/dev-program). 
+1. Accédez à la page [Rejoignez le programme Développeur de Microsoft 365](https://developer.microsoft.com/en-us/microsoft-365/dev-program). 
 
 2. En haut à droite, sélectionnez **Se connecter** pour vous connecter avec votre compte Microsoft ou votre adresse e-mail compatible avec Azure Active Directory.
 

@@ -1,13 +1,13 @@
 ---
 title: Adhérer au programme pour les développeurs Microsoft 365 avec un abonnement Visual Studio Professional ou Enterprise
 description: Tous les nouveaux membres du programme pour les développeurs Microsoft 365 (y compris les membres de Visual Studio Professional et Enterprise) peuvent souscrire un abonnement à Microsoft 365 E5 pour les développeurs (Windows non inclus).
-localization_priority: Priority
-ms.openlocfilehash: 43750cecdc07fbb382e09bf54b98c2d24031a03d
-ms.sourcegitcommit: 3d50606496bd0bdbbcf892d2d18de6343a44c576
+ms.localizationpriority: high
+ms.openlocfilehash: 863da13cd1126a031f26d043ca824d2c27784dd4
+ms.sourcegitcommit: aadd59458002b5ffcb857e92eb46c92669587d78
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 04/19/2021
-ms.locfileid: "51890206"
+ms.lasthandoff: 09/16/2021
+ms.locfileid: "59396706"
 ---
 # <a name="join-the-microsoft-365-developer-program-with-a-visual-studio-professional-or-enterprise-subscription"></a>Adhérer au programme pour les développeurs Microsoft 365 avec un abonnement Visual Studio Professional ou Enterprise
 

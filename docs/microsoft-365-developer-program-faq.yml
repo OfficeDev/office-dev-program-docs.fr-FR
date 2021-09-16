@@ -3,13 +3,13 @@ metadata:
   title: FAQ sur le programme de développement Microsoft 365
   description: Questions fréquemment posées concernant le programme pour les développeurs Microsoft 365.
   ms.date: 04/01/2019
-  localization_priority: Priority
-  ms.openlocfilehash: 4c0eb41ec477df73e8760118225b1544a77e70de
-  ms.sourcegitcommit: 1bd3cd014653f16b15c019bfbc0eceb01a273512
+  ms.localizationpriority: high
+  ms.openlocfilehash: ca503a50bd32678583899ecf23aa8b15c4735322
+  ms.sourcegitcommit: aadd59458002b5ffcb857e92eb46c92669587d78
   ms.translationtype: MT
   ms.contentlocale: fr-FR
-  ms.lasthandoff: 08/27/2021
-  ms.locfileid: "58683134"
+  ms.lasthandoff: 09/16/2021
+  ms.locfileid: "59396699"
 title: FAQ sur le programme de développement Microsoft 365
 summary: Voici les questions fréquemment posées concernant le programme pour les développeurs Microsoft 365.
 sections:
@@ -90,6 +90,10 @@ sections:
   - question: >
       Ai-je le choix entre un abonnement Office 365 E3 ou Microsoft 365 E5 ?
     answer: "Actuellement, les nouveaux membres du programme pour les développeurs ne disposent que d’Microsoft 365 E5 abonnement. Les membres existants avec un abonnement Office 365 E3 auront la possibilité de conserver leur abonnement actuel et de continuer à le renouveler s’ils n’ont pas besoin des nouvelles fonctionnalités proposées dans Microsoft 365 E5, ou d’une mise à niveau à durée uniques vers un abonnement Microsoft 365 E5. Les membres du programme pour les développeurs ne peuvent avoir qu’un seul abonnement.  \n"
+  - question: >
+      L’abonnement Microsoft 365 développeur est-il soumis à la limite de données de l’UE pour Microsoft Cloud (EUDB) ?
+    answer: >
+      Non. L’abonnement Microsoft 365 développeur gratuit est uniquement [](terms-and-conditions.md) soumis aux Conditions générales et non aux engagements de la BASE de données européenne. Toutefois, dans le cadre du processus de mise en service, vous avez la possibilité de choisir le pays/la région de votre abonnement.
   - question: "En tant que partenaire Microsoft, puis-je bénéficier d’un abonnement ? \n"
     answer: "Oui, vous pouvez suivre [ces instructions](microsoft-365-developer-program.md) pour rejoindre le programme pour les développeurs Microsoft 365 et configurer un abonnement Microsoft 365 Développeur. Toutefois, si vous disposez déjà d’un abonnement Visual Studio Enterprise ou Visual Studio Professional, vous pouvez obtenir un abonnement Microsoft 365 pour les développeurs comme bénéfice. Pour accéder à cela, allez à [Visual Studio | Mes avantages](https://my.visualstudio.com/benefits). Pour plus d’informations, contactez le [Service clientèle Visual Studio](https://www.visualstudio.com/subscriptions/support/). \n"
   - question: >

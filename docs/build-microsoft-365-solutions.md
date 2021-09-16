@@ -1,13 +1,13 @@
 ---
 title: Utilisez votre abonnement développeur pour créer des solutions Microsoft 365
 description: Utilisez votre abonnement Microsoft 365 Développeur pour créer les solutions que vous souhaitez.
-localization_priority: Priority
-ms.openlocfilehash: 454bf488dc0cb63ca0d58ba2ddbb5249204f0ea7
-ms.sourcegitcommit: 97bf9ba32eaa1df134d563b99b5fa873600b7921
+ms.localizationpriority: high
+ms.openlocfilehash: 4fc14896d3e0833f102cabc3152fb1e3a7884843
+ms.sourcegitcommit: aadd59458002b5ffcb857e92eb46c92669587d78
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 06/30/2021
-ms.locfileid: "53206894"
+ms.lasthandoff: 09/16/2021
+ms.locfileid: "59396675"
 ---
 # <a name="use-your-developer-subscription-to-build-microsoft-365-solutions"></a>Utilisez votre abonnement développeur pour créer des solutions Microsoft 365
 
@@ -45,7 +45,7 @@ Pour configurer automatiquement votre bac à sable, puis essayer les scénarios 
 
 Si vous souhaitez en savoir plus, veuillez consulter la rubrique [Utiliser des packs d’exemples de données](install-sample-packs.md). 
 
-Si vous souhaitez obtenir des méthodes supplémentaires de démarrage avec Microsoft Graph, veuillez consulter la rubrique [Création d’applications Microsoft Graph : prise en main](https://developer.microsoft.com/fr-FR/graph/get-started) ou [Démarrage rapide de Microsoft Graph](https://developer.microsoft.com/fr-FR/graph/quick-start).
+Si vous souhaitez obtenir des méthodes supplémentaires de démarrage avec Microsoft Graph, veuillez consulter la rubrique [Création d’applications Microsoft Graph : prise en main](https://developer.microsoft.com/en-us/graph/get-started) ou [Démarrage rapide de Microsoft Graph](https://developer.microsoft.com/en-us/graph/quick-start).
 
 ## <a name="office-add-ins"></a>Compléments Office
 
