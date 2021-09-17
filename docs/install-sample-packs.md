@@ -1,13 +1,13 @@
 ---
 title: Utiliser des packs d’exemples de données avec votre abonnement au programme Microsoft 365 Développeur
 description: Découvrez comment installer des packs d’exemples de données sur votre abonnement Développeur pour vous aider à mettre en place votre environnement bac à sable rapidement.
-localization_priority: Priority
-ms.openlocfilehash: 3802c1c1e02c7be9ccb322561189ee0d085e8ce0
-ms.sourcegitcommit: 3d50606496bd0bdbbcf892d2d18de6343a44c576
+ms.localizationpriority: high
+ms.openlocfilehash: fb111d13a940fc5dffbba12b092a8f2bfd313872
+ms.sourcegitcommit: aadd59458002b5ffcb857e92eb46c92669587d78
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 04/19/2021
-ms.locfileid: "51890149"
+ms.lasthandoff: 09/16/2021
+ms.locfileid: "59396720"
 ---
 # <a name="use-sample-data-packs-with-your-microsoft-365-developer-program-subscription"></a>Utiliser des packs d’exemples de données avec votre abonnement au programme Microsoft 365 Développeur
 
@@ -26,7 +26,7 @@ Les packs d’exemples de données suivants sont actuellement disponibles :
   - Préparer l’organigramme  
   - Obtenir des utilisateurs par service
 
-- Courrier et événements : Ajoute des conversations par courrier et des événements de calendrier Outlook pour chacun des 16 exemples d’utilisateurs. Utilisez les API Microsoft Graph pour utiliser les exemples de données de courriers et d’événements de l’une des manières suivantes :
+- Courrier et événements : Ajoute des conversations par courrier et des événements de calendrier Outlook pour chacun des 16 exemples d’utilisateurs. Utilisez les API Microsoft Graph pour utiliser les exemples de données de courriers et d’événements de l’une des manières suivantes :
   - Obtenir les courriers électroniques par utilisateurs
   - Obtenir les courriers électroniques filtrés par date
   - Obtenir les événements à venir
@@ -57,7 +57,7 @@ Pour installer le pack d’exemples de données Utilisateurs, procédez comme su
 
 ![Capture d’écran montrant la boîte de dialogue de consentement des autorisations](images/sample-data-pack-ux-tile-users-consent-with-permissions-combined.PNG)
 
-5. Configurez vos mots de passe pour tous les exemples d’utilisateurs. Vous aurez besoin d’un mot de passe partagé défini pour simplifier l’administration de tous vos utilisateurs fictifs.
+5. Configurez vos mots de passe pour tous les échantillons d’utilisateurs. Vous devrez définir un mot de passe partagé pour faciliter l'administration de tous vos utilisateurs fictifs.
 
 ![Capture d’écran de la boîte de dialogue permettant d’ajouter un mot de passe d’un utilisateur partagé](images/sample-data-pack-ux-tile-users-fake-user-password-creation.PNG)
 
@@ -197,7 +197,7 @@ Oui. Dans le futur, nous allons ajouter des packs d’exemples de données pour 
 
 ## <a name="can-i-install-sample-data-packs-on-my-other-microsoft-365-subscriptions"></a>Puis-je installer des packs d’exemples de données sur mes autres abonnements Microsoft 365 ?
 
-Non. Ces packs d’exemples de données sont uniquement compatibles avec l’abonnement développeur de Microsoft 365 inclus dans le cadre du programme Microsoft 365 Développeur.
+Non. Ces exemples de packs de données sont uniquement compatibles avec l’abonnement Microsoft 365 développeur que vous obtenez dans le cadre du programme Microsoft 365 développeurs.
 
 ## <a name="how-can-i-see-the-sample-data-in-my-subscription"></a>Comment puis-je voir les exemples de données dans mon abonnement ?
 
