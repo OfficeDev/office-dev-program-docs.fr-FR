@@ -2,12 +2,12 @@
 title: Utilisez votre abonnement développeur pour créer des solutions Microsoft 365
 description: Utilisez votre abonnement Microsoft 365 Développeur pour créer les solutions que vous souhaitez.
 ms.localizationpriority: high
-ms.openlocfilehash: 4fc14896d3e0833f102cabc3152fb1e3a7884843
-ms.sourcegitcommit: aadd59458002b5ffcb857e92eb46c92669587d78
+ms.openlocfilehash: 3c03ccc44e4923631c12f09e58656845e5695d90
+ms.sourcegitcommit: cfa3f2fd7867c0f0118ac7f563b38af9a0b09024
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 09/16/2021
-ms.locfileid: "59396675"
+ms.lasthandoff: 11/03/2021
+ms.locfileid: "60725019"
 ---
 # <a name="use-your-developer-subscription-to-build-microsoft-365-solutions"></a>Utilisez votre abonnement développeur pour créer des solutions Microsoft 365
 
@@ -31,7 +31,7 @@ Vous pouvez utiliser Microsoft Graph pour interagir avec les données de million
 
 Pour configurer automatiquement votre bac à sable, puis essayer les scénarios Microsoft Graph, installez les packs d’exemples de données Utilisateurs et Courrier et événements :
 
-- Utilisateurs : Installe 16 utilisateurs fictifs dotés de licences, de boîtes aux lettres et de métadonnées, en incluant les noms et les photos de chacun d’eux. Utilisez les API Microsoft Graph pour utiliser les exemples de données utilisateur de l’une des manières suivantes :
+- Utilisateurs : Installe 16 utilisateurs fictifs dotés de licences, de boîtes aux lettres et de métadonnées, en incluant les noms et les photos de chacun d’eux. Utilisez les API Microsoft Graph pour utiliser les exemples de données utilisateur de l’une des manières suivantes :
   - Obtenir des informations spécifiques sur un utilisateur
   - Mettre à jour un utilisateur
   - Obtenir des collaborateurs
@@ -76,7 +76,7 @@ Pour effectuer la configuration des compléments SharePoint et commencer à les 
 
 ## <a name="power-apps"></a>Power Apps
 
-Votre licence d’abonnement à Microsoft 365 E5 pour les développeurs inclut Power Apps. 
+Power Apps pour Office 365 est inclus dans votre licence d’abonnement Microsoft 365 E5 pour les développeurs. Cela signifie que vous pouvez créer et tester des applications non limitées avec des [connecteurs standard](https://docs.microsoft.com/connectors/connector-reference/connector-reference-standard-connectors). Pour utiliser des connecteurs [premium](https://docs.microsoft.com/connectors/connector-reference/connector-reference-premium-connectors) ou personnalisés et Dataverse, vous avez besoin d’une licence supplémentaire. À des fins de développement et de test, vous pouvez utiliser le [Plan pour développeurs Power Apps](https://powerapps.microsoft.com/developerplan). 
 
 Power Apps est une suite d’applications, de services, de connecteurs et une plateforme de données qui fournit un environnement de développement rapide des applications pour créer des applications personnalisées adaptées à vos besoins professionnels. Power Apps vous permette de créer rapidement des applications métier personnalisées qui se connectent à vos données professionnelles, stockées dans la plateforme de données sous-jacente (service de données communes) ou dans différentes sources de données en ligne et locales (SharePoint, Microsoft 365, Dynamics 365, SQL Server, et bien plus encore).
 
@@ -94,6 +94,6 @@ En savoir plus :
 ## <a name="see-also"></a>Articles associés
 
 - [Rejoignez le programme développeur de Microsoft 365](microsoft-365-developer-program.md)
-- [Configurez un abonnement Microsoft 365 Développeur](microsoft-365-developer-program-get-started.md) 
+- [Configurez un abonnement Microsoft 365 Développeur](microsoft-365-developer-program-get-started.md) 
 - [Renouveler un abonnement sur le point d'expirer](subscription-expiration-and-renewal.md)
 - [FAQ sur le programme de développement Microsoft 365](microsoft-365-developer-program-faq.yml)
