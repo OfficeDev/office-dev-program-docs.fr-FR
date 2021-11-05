@@ -2,12 +2,12 @@
 title: Utiliser des packs d’exemples de données avec votre abonnement au programme Microsoft 365 Développeur
 description: Découvrez comment installer des packs d’exemples de données sur votre abonnement Développeur pour vous aider à mettre en place votre environnement bac à sable rapidement.
 ms.localizationpriority: high
-ms.openlocfilehash: 85bdbc5cbcb6daaf40beeef7e0138909361d6cd1
-ms.sourcegitcommit: cfa3f2fd7867c0f0118ac7f563b38af9a0b09024
+ms.openlocfilehash: 3548c050f346604b803dd4da7343a7ab8eb26075
+ms.sourcegitcommit: 6be0111c5e2a3f92db69de452bd20214b19ec5a1
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 11/03/2021
-ms.locfileid: "60725039"
+ms.lasthandoff: 11/05/2021
+ms.locfileid: "60793532"
 ---
 # <a name="developer-sandbox-sample-data"></a>Exemples de données de bac à sable pour les développeurs
 
@@ -70,19 +70,19 @@ Pour installer le pack d’exemples de données Utilisateurs, procédez comme su
 3. Saisissez votre ID administrateur et votre mot de passe sur la page de connexion.
 4. Accordez-vous les autorisations d’administrateur de votre abonnement Microsoft 365 Développeur.
 
-![Capture d’écran montrant la boîte de dialogue de consentement des autorisations](images/sample-data-pack-ux-tile-users-consent-with-permissions-combined.PNG)
+  ![Capture d’écran montrant la boîte de dialogue de consentement des autorisations](images/sample-data-pack-ux-tile-users-consent-with-permissions-combined.PNG)
 
 5. Configurez vos mots de passe pour tous les échantillons d’utilisateurs. Vous devrez définir un mot de passe partagé pour faciliter l'administration de tous vos utilisateurs fictifs.
 
-![Capture d’écran de la boîte de dialogue permettant d’ajouter un mot de passe d’un utilisateur partagé](images/sample-data-pack-ux-tile-users-fake-user-password-creation.PNG)
+  ![Capture d’écran de la boîte de dialogue permettant d’ajouter un mot de passe d’un utilisateur partagé](images/sample-data-pack-ux-tile-users-fake-user-password-creation.PNG)
 
 6. Les données sont installées. L’installation devrait prendre environ 5 minutes.
 
-![Capture d’écran montrant le processus d’installation sur la vignette du tableau de bord](images/sample-data-pack-ux-tile-users-installing-status.PNG)
+  ![Capture d’écran montrant le processus d’installation sur la vignette du tableau de bord](images/sample-data-pack-ux-tile-users-installing-status.PNG)
 
 7. Une fois l’installation terminée, vous recevez une notification par courrier électronique. La case de la vignette de votre abonnement devient verte. Vous pouvez désormais installer les packs d’exemples de données Courrier et Événements.
 
-![Capture d’écran de la vignette du tableau de bord avec Courrier et Événements prêt à être installés](images/sample-data-pack-ux-tile-users-installed.PNG)
+  ![Capture d’écran de la vignette du tableau de bord avec Courrier et Événements prêt à être installés](images/sample-data-pack-ux-tile-users-installed.PNG)
 
 ### <a name="install-the-mail--events-sample-data-pack"></a>Installer le pack d’exemple de données Courrier et Événements
 
@@ -91,10 +91,10 @@ Après avoir installé le pack d’exemples de données Utilisateurs, vous pouve
 1. Cochez la case **Courrier &amp;Événements** sur la vignette de votre abonnement.
 2. Sélectionnez **Installer** pour commencer l’installation.
 
-![Capture d’écran de la boîte de dialogue Installer](images/sample-data-pack-ux-tile-mail-and-events-begin-install.PNG)
+  ![Capture d’écran de la boîte de dialogue Installer](images/sample-data-pack-ux-tile-mail-and-events-begin-install.PNG)
 
-> [!NOTE]
-> Si vous venez de créer votre abonnement, celui-ci doit être complètement configuré avant que l’installation puisse commencer. Cette étape peut prendre jusqu’à quelques heures. Une fois l’installation démarrée, l’opération peut prendre jusqu’à 20 minutes.
+  > [!NOTE]
+  > Si vous venez de créer votre abonnement, celui-ci doit être complètement configuré avant que l’installation puisse commencer. Cette étape peut prendre jusqu’à quelques heures. Une fois l’installation démarrée, l’opération peut prendre jusqu’à 20 minutes.
 
 3. Une fois l’installation terminée, vous recevez une notification par courrier électronique. La case de la vignette de votre abonnement devient verte.
 
