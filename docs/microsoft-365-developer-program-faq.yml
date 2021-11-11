@@ -4,12 +4,12 @@ metadata:
   description: Questions fréquemment posées concernant le programme pour les développeurs Microsoft 365.
   ms.date: 04/01/2019
   ms.localizationpriority: high
-  ms.openlocfilehash: 288754708eb5a589dad6a6304a0f252cf60fe3b2
-  ms.sourcegitcommit: cfa3f2fd7867c0f0118ac7f563b38af9a0b09024
+  ms.openlocfilehash: fbc4aae63cb03207a095ca6014d7c92394544eeb
+  ms.sourcegitcommit: 7d83b21fd60e5e6b43b4ebcca5c5a411c8149a7b
   ms.translationtype: MT
   ms.contentlocale: fr-FR
-  ms.lasthandoff: 11/03/2021
-  ms.locfileid: "60725026"
+  ms.lasthandoff: 11/11/2021
+  ms.locfileid: "60907202"
 title: FAQ sur le programme de développement Microsoft 365
 summary: Voici les questions fréquemment posées concernant le programme pour les développeurs Microsoft 365.
 sections:
@@ -85,18 +85,21 @@ sections:
     answer: "Pour l’instant, seuls les nouveaux membres du programme Microsoft 365 Développeur reçoivent automatiquement un abonnement Microsoft 365 E5 Développeur. Les utilisateurs existants pourront migrer vers un abonnement Microsoft 365 E5 de migration. \n\nSi vous choisissez de migrer vers un abonnement Microsoft 365 E5, vous pouvez utiliser l’outil gratuit [Microsoft Mover](https://mover.io/) pour migrer vos données. Consultez également les ressources suivantes :\n\n- [Comment migrer des boîtes aux lettres d’un Microsoft 365 client vers un autre](https://docs.microsoft.com/en-us/exchange/mailbox-migration/migrate-mailboxes-across-tenants)\n- [Utilisation de PowerShell pour effectuer une migration Office 365](https://docs.microsoft.com/en-us/microsoft-365/enterprise/use-powershell-to-perform-a-staged-migration-to-microsoft-365?view=o365-worldwide)\n- [Migrer votre contenu vers Microsoft 365](https://docs.microsoft.com/en-us/sharepointmigration/migrate-to-sharepoint-online)\n"
   - question: >
       Dois-je choisir un bac à sable instantané ou un bac à sable configurable ?
-    answer: "Si vous choisissez un bac à sable instantané, vous pouvez réduire la durée de configuration du bac à sable (sandbox) de jours à secondes. Le Microsoft 365 bac à sable instantané est pré-provisioné avec Microsoft Teams, SharePoint, Outlook et Office. Il inclut également des licences pour 24 utilisateurs de test plus un administrateur et les applications Microsoft 365 les plus récentes pour votre PC et Mac, notamment Power Apps, Power BI, Enterprise Mobility + Security, Office 365 - Protection avancée contre les menaces et Azure Active Directory.\n\nEn outre, vous obtenez des exemples de données préinstallés, notamment le nouveau pack d’exemples de données Teams, qui simule un petit environnement d’entreprise pour vous aider à créer des solutions sur la plateforme Microsoft 365. Pour plus d’informations, voir les exemples de données du bac à sable développeur.\n\nSi vous choisissez un bac à sable configurable, vous aurez un bac à sable vide que vous devez remplir avec des exemples de données. La mise en service de ce bac à sable peut prendre jusqu’à deux jours. Vous pouvez choisir d’installer les packs d’exemples de données disponibles dans votre tableau de bord du programme développeur. Vous pouvez personnaliser votre nom de domaine avec cette option. \n"
+    answer: "Si vous choisissez un bac à sable instantané, vous pouvez réduire le temps de configuration de votre bac à sable de plusieurs jours à quelques secondes. Le bac à sable instantané Microsoft 365 est fourni avec Microsoft Teams, SharePoint, Outlook et Office. Il comprend également des licences pour 24 utilisateurs de test et un administrateur, ainsi que les dernières applications Microsoft 365 pour votre PC et votre Mac, notamment Power Apps, Power BI, Enterprise Mobility + Security, Office 365 Advanced Threat Protection et Azure Active Directory.\n\nEn outre, vous obtenez des exemples de données préinstallés, notamment le nouveau pack d’exemples de données Teams, qui simule un petit environnement d’entreprise pour vous aider à créer des solutions sur la plateforme Microsoft 365. Pour plus d’informations, consultez Exemples de données de bac à sable développeur.\n\nSi vous choisissez un bac à sable configurable, vous aurez un bac à sable vide que vous devez remplir avec des exemples de données. L’approvisionnement de ce bac à sable peut prendre jusqu’à deux jours. Vous pouvez choisir d’installer les packs d’exemples de données disponibles dans votre tableau de bord du programme développeur. Vous pouvez personnaliser votre nom de domaine avec cette option. \n"
+  - question: >
+      Comment puis-je trouver les exemples Teams données dans mon bac à sable instantané ?
+    answer: >
+      Pour consulter les exemples de données Microsoft Teams, accédez à **Teams** dans votre abonnement Microsoft 365 E5. Sous l’onglet Teams, vous verrez des équipes pré-créées avec des conversations à partir d’exemples d’utilisateurs dans **Équipe du projet Mark 8**. L’application App Studio/Portail de développement est préinstallée et épinglée au volet de navigation.
   - question: >
       Pourquoi dois-je lier mon compte GitHub ?
-    answer: >
-      Lorsque vous rejoignez le programme pour les développeurs Microsoft 365, sur votre page [Mes paramètres](https://developer.microsoft.com/microsoft-365/profile/settings/preferences) , vous pouvez lier votre compte GitHub à votre compte de programme pour les développeurs. La liaison de votre compte GitHub sera prise en compte lors du renouvellement de votre abonnement au bac à sable pour développeurs Microsoft 365. Vous pouvez également choisir de dissocier votre compte en vous rendant dans la section [Comptes liés](https://developer.microsoft.com/microsoft-365/profile/settings/accounts-linked) de votre page **Mes paramètres**.
+    answer: "Lorsque vous rejoignez le programme pour les développeurs Microsoft 365, sur votre page [Mes paramètres](https://developer.microsoft.com/microsoft-365/profile/settings/preferences) , vous pouvez lier votre compte GitHub à votre compte de programme pour les développeurs. La liaison de votre compte GitHub sera prise en compte lors du renouvellement de votre abonnement au bac à sable pour développeurs Microsoft 365. Vous pouvez également choisir de dissocier votre compte en vous rendant dans la section [Comptes liés](https://developer.microsoft.com/microsoft-365/profile/settings/accounts-linked) de votre page **Mes paramètres**.\n  \n"
   - question: >
       Ai-je le choix entre un abonnement Office 365 E3 ou Microsoft 365 E5 ?
     answer: "Actuellement, les nouveaux membres du programme pour les développeurs ne disposent que d’Microsoft 365 E5 abonnement. Les membres existants avec un abonnement Office 365 E3 auront la possibilité de conserver leur abonnement actuel et de continuer à le renouveler s’ils n’ont pas besoin des nouvelles fonctionnalités proposées dans Microsoft 365 E5, ou d’une mise à niveau à durée uniques vers un abonnement Microsoft 365 E5. Les membres du programme pour les développeurs ne peuvent avoir qu’un seul abonnement.  \n"
   - question: >
       L’abonnement Microsoft 365 développeur est-il soumis à la limite de données de l’UE pour Microsoft Cloud (EUDB) ?
     answer: >
-      Non. L’abonnement Microsoft 365 développeur gratuit est uniquement [](terms-and-conditions.md) soumis aux Conditions générales et non aux engagements de la BASE de données européenne. Toutefois, dans le cadre du processus d’approvisionnement, vous avez la possibilité de choisir le pays/la région de votre abonnement.
+      Non. L’abonnement Microsoft 365 développeur gratuit est uniquement [](terms-and-conditions.md) soumis aux Conditions générales et non aux engagements de la BASE de données européenne. Toutefois, dans le cadre du processus de mise en service, vous avez la possibilité de choisir le pays/la région de votre abonnement.
   - question: "En tant que partenaire Microsoft, puis-je bénéficier d’un abonnement ? \n"
     answer: "Oui, vous pouvez suivre [ces instructions](microsoft-365-developer-program.md) pour rejoindre le programme pour les développeurs Microsoft 365 et configurer un abonnement Microsoft 365 Développeur. Toutefois, si vous disposez déjà d’un abonnement Visual Studio Enterprise ou Visual Studio Professional, vous pouvez obtenir un abonnement Microsoft 365 pour les développeurs comme bénéfice. Pour accéder à cela, allez à [Visual Studio | Mes avantages](https://my.visualstudio.com/benefits). Pour plus d’informations, contactez le [Service clientèle Visual Studio](https://www.visualstudio.com/subscriptions/support/). \n"
   - question: >

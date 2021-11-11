@@ -3,12 +3,12 @@ title: Configurer un abonnement bac à sable Microsoft 365
 description: Configurez un abonnement Microsoft 365 pour les développeurs pour créer des solutions, indépendamment de votre environnement de production.
 ms.date: 04/01/2019
 ms.localizationpriority: high
-ms.openlocfilehash: b21d725c158a607df247084fa99c4547f2989e31
-ms.sourcegitcommit: 6be0111c5e2a3f92db69de452bd20214b19ec5a1
+ms.openlocfilehash: 57fc33880f2df4e43bf79d17a2280ea3e7853561
+ms.sourcegitcommit: ff0cbb1c2c58aca2b50335d957b30495c8e90486
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 11/05/2021
-ms.locfileid: "60793525"
+ms.lasthandoff: 11/10/2021
+ms.locfileid: "60889446"
 ---
 # <a name="set-up-a-microsoft-365-developer-sandbox-subscription"></a>Configurer un abonnement bac à sable Microsoft 365 
 
@@ -51,6 +51,10 @@ Si vous avez sélectionné un bac à sable instantané :
     > Notez votre nom d’utilisateur et votre mot de passe, car vous en aurez besoin pour accéder à votre abonnement Développeur.
 
 2.  Indiquez un numéro de téléphone portable valide et choisissez **Envoyer le code**. Entrez le code que vous recevez, puis choisissez **Configurer**.
+
+    > [!NOTE] 
+    > Vous devez utiliser un numéro de téléphone portable valide et non un numéro VoIP (Voice over IP).
+
 3.  Une fois l’abonnement créé, le nom de domaine et la date d’expiration de votre abonnement apparaissent sur la page de votre profil.
 
 Si vous avez sélectionné un bac à sable configurable :

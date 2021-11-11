@@ -2,18 +2,20 @@
 title: Utiliser des packs d’exemples de données avec votre abonnement au programme Microsoft 365 Développeur
 description: Découvrez comment installer des packs d’exemples de données sur votre abonnement Développeur pour vous aider à mettre en place votre environnement bac à sable rapidement.
 ms.localizationpriority: high
-ms.openlocfilehash: 3548c050f346604b803dd4da7343a7ab8eb26075
-ms.sourcegitcommit: 6be0111c5e2a3f92db69de452bd20214b19ec5a1
+ms.openlocfilehash: 9031992701203438c26ffe3266d59932c370105f
+ms.sourcegitcommit: ff0cbb1c2c58aca2b50335d957b30495c8e90486
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 11/05/2021
-ms.locfileid: "60793532"
+ms.lasthandoff: 11/10/2021
+ms.locfileid: "60889453"
 ---
 # <a name="developer-sandbox-sample-data"></a>Exemples de données de bac à sable pour les développeurs
 
 Votre abonnement au bac à sable du Programme pour les développeurs Microsoft 365 est fourni avec des exemples de données pour vous faire gagner du temps en fournissant les données et le contenu dont vous avez besoin pour créer et tester vos solutions.
 
 ![Capture d’écran d’un exemple de boutons du pack de données](images/sample-data-packs.PNG)
+
+## <a name="sample-data-installed-on-the-instant-sandbox"></a>Exemples de données installés sur le bac à sable instantané
 
 Si vous avez un bac à sable instantané, les packs d’exemples de données sont déjà préinstallés. Votre bac à sable instantané inclut les exemples de données suivants :
 
@@ -26,12 +28,12 @@ Si vous avez un bac à sable instantané, les packs d’exemples de données son
     ![Capture d’écran du portail des développeurs Teams](images/teams-developer-portal.PNG)
 - **Exemple de données SharePoint Framework** : choisissez parmi six modèles de site que vous pouvez installer et évaluer en tant que solutions personnalisées pour votre organisation (avec un modèle préinstallé).
 
+## <a name="install-sample-data-packs-in-your-configurable-sandbox"></a>Installer des packs d’exemple de données dans votre bac à sable configurable
+
 Si vous avez un bac à sable configurable, vous pouvez rapidement installer les exemples de données afin de pouvoir vous concentrer sur vos solutions plutôt que de passer du temps à créer vous-même des exemples de données.
 
 > [!NOTE] 
 > Vous ne pouvez pas installer de packs d’exemple de données sur d’autres abonnements Microsoft 365. Ces packs d’exemple de données sont uniquement compatibles avec l’abonnement au bac à sable pour les développeurs Microsoft 365 que vous obtenez dans le cadre du programme pour les développeurs Microsoft 365.
-
-## <a name="install-sample-data-packs-in-your-configurable-sandbox"></a>Installer des packs d’exemple de données dans votre bac à sable configurable
 
 Des packs d’exemples de données sont disponibles dans le [Tableau de bord de votre programme Microsoft 365 Développeur](https://developer.microsoft.com/microsoft-365/profile), au bas de la vignette de votre abonnement.
 
