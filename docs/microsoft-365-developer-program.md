@@ -2,18 +2,18 @@
 title: Bienvenue dans le programme pour les développeurs Microsoft 365 !
 description: Rejoignez le programme pour les Développeurs Microsoft 365 pour développer des solutions Microsoft 365 indépendamment de votre environnement de production.
 ms.localizationpriority: high
-ms.openlocfilehash: 6694e1d3f31ea8f52b537707a44f251a895eb85e
-ms.sourcegitcommit: aadd59458002b5ffcb857e92eb46c92669587d78
+ms.openlocfilehash: 2294565eb909f5fddcf69ddf3d70a3684df4f23b
+ms.sourcegitcommit: a9d1dcc5aa7e2f2178aed640eb5f44d442b47410
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 09/16/2021
-ms.locfileid: "59396692"
+ms.lasthandoff: 05/27/2022
+ms.locfileid: "65751501"
 ---
 # <a name="welcome-to-the-microsoft-365-developer-program"></a>Bienvenue dans le programme pour les développeurs Microsoft 365 !
 
 Le programme pour les développeurs Microsoft 365 inclut un abonnement pour les développeurs Microsoft 365 E5 qui vous permet de créer votre propre bac à sable, puis de développer des solutions indépendantes de votre environnement de production. Vous pouvez créer des applications Microsoft Teams, des Compléments Office pour Word, Excel, PowerPoint ou Outlook, ou des Compléments SharePoint, à l’aide de Microsoft Graph, de SharePoint Framework, de Power Apps, et bien plus encore.
 
-Vous avez un abonnement Visual Studio Professional ou Enterprise ? Si c’est le cas, vous pouvez tirer parti d’avantages supplémentaires lorsque vous adhérez au programme. Si vous souhaitez en savoir plus, veuillez consulter la rubrique [Adhérer avec Visual Studio](join-with-visual-studio.md).
+Vous avez un abonnement Visual Studio Pro ou Enterprise ? Si c’est le cas, vous pouvez tirer parti d’avantages supplémentaires lorsque vous adhérez au programme. Si vous souhaitez en savoir plus, veuillez consulter la rubrique [Adhérer avec Visual Studio](join-with-visual-studio.md).
 
 ## <a name="join-the-microsoft-365-developer-program"></a>Rejoignez le programme Développeur de Microsoft 365
 

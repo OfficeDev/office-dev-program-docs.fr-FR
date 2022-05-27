@@ -3,16 +3,16 @@ title: Expiration et renouvellement d’un abonnement au programme pour les dév
 description: Informations sur le renouvellement d’un abonnement Développeur arrivant à expiration.
 ms.date: 04/01/2019
 ms.localizationpriority: high
-ms.openlocfilehash: afb5c197a83c7776c77ea766c3c6f51233497e9a
-ms.sourcegitcommit: aadd59458002b5ffcb857e92eb46c92669587d78
+ms.openlocfilehash: ddc03b8c1c7f1284fd557e2f5c11b95dec034825
+ms.sourcegitcommit: a9d1dcc5aa7e2f2178aed640eb5f44d442b47410
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 09/16/2021
-ms.locfileid: "59396713"
+ms.lasthandoff: 05/27/2022
+ms.locfileid: "65751515"
 ---
 # <a name="microsoft-365-developer-program-subscription-expiration-and-renewal"></a>Expiration et renouvellement d’un abonnement au programme pour les développeurs Microsoft 365
 
-L’adhésion au programme pour les développeurs Microsoft 365 inclut un abonnement Office 365 E3 ou Microsoft 365 E5 Développeur gratuit. Votre abonnement Développeur est renouvelable sur la base de votre activité de développement. Certains anciens abonnements ont toutefois une date d’expiration. Cet article décrit la différence entre les abonnements renouvelables et non renouvelables, et la mise à jour de votre abonnement s’il vient à expirer.
+L’adhésion au programme pour les développeurs Microsoft 365 inclut un abonnement Microsoft 365 E5 pour les développeurs gratuit. Votre abonnement Développeur est renouvelable sur la base de votre activité de développement. Certains anciens abonnements ont toutefois une date d’expiration. Cet article décrit la différence entre les abonnements renouvelables et non renouvelables, et la mise à jour de votre abonnement s’il vient à expirer.
 
 ## <a name="expiring-vs-renewable-developer-subscriptions"></a>Abonnements Développeur avec une date d’expiration ou renouvelables
 
@@ -71,7 +71,7 @@ Lorsque votre abonnement est supprimé, une notification apparaît sur votre tab
 ## <a name="see-also"></a>Articles associés
 
 - [Rejoignez le programme développeur de Microsoft 365](microsoft-365-developer-program.md)
-- [Configurez un abonnement Microsoft 365 Développeur](microsoft-365-developer-program-get-started.md)
+- [Configurez un abonnement Microsoft 365 Développeur](microsoft-365-developer-program-get-started.md)
 - [Utilisez votre abonnement pour créer des solutions Microsoft 365](build-microsoft-365-solutions.md)
 - [FAQ sur le programme de développement Microsoft 365](microsoft-365-developer-program-faq.yml)
 
