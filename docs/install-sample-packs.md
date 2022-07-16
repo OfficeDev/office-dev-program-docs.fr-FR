@@ -2,12 +2,12 @@
 title: Utiliser des packs d’exemples de données avec votre abonnement au programme Microsoft 365 Développeur
 description: Découvrez comment installer des packs d’exemples de données sur votre abonnement Développeur pour vous aider à mettre en place votre environnement bac à sable rapidement.
 ms.localizationpriority: high
-ms.openlocfilehash: 9031992701203438c26ffe3266d59932c370105f
-ms.sourcegitcommit: ff0cbb1c2c58aca2b50335d957b30495c8e90486
+ms.openlocfilehash: a9d93e75b23e08ad49c960e0d4f1559e33193f5e
+ms.sourcegitcommit: 088cfc887d4638d9be44cdd58ff5550a6564314c
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 11/10/2021
-ms.locfileid: "60889453"
+ms.lasthandoff: 07/16/2022
+ms.locfileid: "66827296"
 ---
 # <a name="developer-sandbox-sample-data"></a>Exemples de données de bac à sable pour les développeurs
 
@@ -104,7 +104,7 @@ Après avoir installé le pack d’exemples de données Utilisateurs, vous pouve
 
 Le pack d’exemple de données SharePoint inclut six modèles de site SharePoint différents parmi lesquels choisir pour expérimenter et modéliser des solutions SharePoint pour la collaboration, la communication, l’engagement et la gestion des connaissances.
 
-Voici quelques-uns des modèles les plus populaires du [look book SharePoint PnP](https://provisioning.sharepointpnp.com/). Aujourd’hui, il est facile de créer des exemples de solutions de sites et de pages magnifiques et d’accès rapide qui offriront une apparence remarquable sur tous les appareils ou écrans. Inspirez-vous de ces conceptions ou ajoutez-les à votre client bac à sable pour commencer à créer votre prochain site.
+Voici quelques-uns des modèles les plus populaires du [look book SharePoint PnP](https://lookbook.microsoft.com). Aujourd’hui, il est facile de créer des exemples de solutions de sites et de pages magnifiques et d’accès rapide qui offriront une apparence remarquable sur tous les appareils ou écrans. Inspirez-vous de ces conceptions ou ajoutez-les à votre client bac à sable pour commencer à créer votre prochain site.
 
 Vous pouvez installer les modèles lors de votre abonnement. Après installé un modèle, vous pouvez installer les autres. Le processus d’installation inclut les étapes suivantes :
 
