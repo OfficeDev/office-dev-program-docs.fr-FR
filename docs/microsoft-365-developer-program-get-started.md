@@ -3,16 +3,16 @@ title: Configurer un abonnement bac à sable Microsoft 365
 description: Configurez un abonnement Microsoft 365 pour les développeurs pour créer des solutions, indépendamment de votre environnement de production.
 ms.date: 04/01/2019
 ms.localizationpriority: high
-ms.openlocfilehash: 57fc33880f2df4e43bf79d17a2280ea3e7853561
-ms.sourcegitcommit: ff0cbb1c2c58aca2b50335d957b30495c8e90486
-ms.translationtype: HT
+ms.openlocfilehash: f28b37a1d3c9e5ae335695f9a5473feb40404172
+ms.sourcegitcommit: e6e6f15ad3f9ce28310a7c8cec87402335bde388
+ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 11/10/2021
-ms.locfileid: "60889446"
+ms.lasthandoff: 10/21/2022
+ms.locfileid: "68667284"
 ---
 # <a name="set-up-a-microsoft-365-developer-sandbox-subscription"></a>Configurer un abonnement bac à sable Microsoft 365 
 
-Configurez un bac à sable pour développeurs Microsoft 365 pour créer vos solutions indépendamment de votre environnement de production. L’appartenance à votre programme de développement, que vous rejoignez en tant que membre régulier ou via Visual Studio entreprise, inclut un abonnement bac à sable pour développeurs Microsoft 365 E5 avec 25 licences utilisateur. Il est valable 90 jours et est gratuit pour une utilisation à des fins de développement uniquement (solutions d’encodage). 
+Configurez un bac à sable pour développeurs Microsoft 365 pour créer vos solutions indépendamment de votre environnement de production. L’appartenance à votre programme de développement, que vous rejoignez en tant que membre régulier ou via Visual Studio entreprise, inclut un abonnement bac à sable pour développeurs Microsoft 365 E5 avec 25 licences utilisateur. Il est valable 90 jours et est gratuit pour une utilisation à des fins de développement uniquement (solutions d’encodage). Les transactions commerciales, y compris l’achat de services payants, ne sont pas prises en charge.
 
 > [!NOTE] 
 > Pour configurer un abonnement, vous devez d’abord [rejoindre le programme de développement Microsoft 365](microsoft-365-developer-program.md) directement ou via Visual Studio Professional ou Enterprise (si vous êtes abonné). Dès que vous avez adhéré au programme, l’option de configuration d’un abonnement s’affiche.
