@@ -4,12 +4,12 @@ metadata:
   description: Questions fréquemment posées concernant le programme pour les développeurs Microsoft 365.
   ms.date: 04/01/2019
   ms.localizationpriority: high
-  ms.openlocfilehash: af9cec4b336ffaf68b3ca1f56d61f7f2776ed987
-  ms.sourcegitcommit: e6e6f15ad3f9ce28310a7c8cec87402335bde388
+  ms.openlocfilehash: 2a9be84dc3f2457836404caa70ab66999a246721
+  ms.sourcegitcommit: 1828bc081287aefdfa4d8a94d93de9e6046dc8c9
   ms.translationtype: MT
   ms.contentlocale: fr-FR
   ms.lasthandoff: 10/21/2022
-  ms.locfileid: "68667291"
+  ms.locfileid: "68673528"
 title: FAQ sur le programme de développement Microsoft 365
 summary: Voici les questions fréquemment posées concernant le programme pour les développeurs Microsoft 365.
 sections:
@@ -55,6 +55,10 @@ sections:
       Le bac à sable instantané a-t-il des fonctionnalités différentes d’un abonnement Microsoft 365 E5 standard ?
     answer: >
       Dans Exchange Online, les connecteurs entrants pour le flux de courrier ne sont pas pris en charge. Si vous essayez de créer un connecteur entrant, vous obtenez l’erreur suivante : « Erreur lors de l’exécution de la demande. Pour cette offre de service, vous ne pouvez pas créer ou mettre à jour des connecteurs entrants dans votre organisation. »
+  - question: >
+      Pourquoi ne puis-je pas me connecter à mon tableau de bord programme pour développeurs ?
+    answer: >
+      Nous demandons aux membres du Programme pour les développeurs Microsoft 365 de se conformer aux [conditions générales](terms-and-conditions.md). Dans certains cas, nous pouvons ne pas autoriser les membres qui enfreignent nos conditions à se connecter au programme.
   - question: >
       Je ne parviens pas à me connecter à mon bac à sable instantané avec mon compte d’administrateur. Que puis-je faire ?
     answer: "Si vous avez configuré votre bac à sable instantané le 30 septembre 2022 ou après, votre capacité à vous connecter avec votre compte administrateur a peut-être expiré. Dans ce cas, nous avons pré-expiré votre bac à sable instantané et vous devrez en configurer un nouveau. Accédez à votre [tableau de bord Programme pour les développeurs Microsoft 365](https://aka.ms/DevProgramDashboard), connectez-vous avec votre compte Programme de développement, puis choisissez **Configurer l’abonnement** pour obtenir votre nouveau bac à sable instantané.  \n\nAprès avoir configuré votre nouveau bac à sable instantané, connectez-vous avec votre compte administrateur dans les 14 jours.\n"
